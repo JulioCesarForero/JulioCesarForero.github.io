@@ -6,7 +6,7 @@
 ### CONTACTO
 
 - 📞 320 858 7713
-- ✉️ jcesarforero@sonda.com
+- ✉️ jcesarforero@gmail.com.com
 - 🏠 Calle 70c #57 27 Apt. 402
 - 🔗 linkedin.com/in/juliocesarforero
 - 🐙 https://github.com/JulioCesarForero
@@ -66,7 +66,7 @@ En mi ejercicio laboral he destacado por comprender las necesidades del cliente 
 
 ## CLOUD Y MICROSERVICIOS
 
-- AWS, GCP, Azure, Docker K8s.
+- AWS, GCP, Docker K8s.
 
 # HABILIDADES
 

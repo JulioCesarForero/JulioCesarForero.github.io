@@ -1,9 +1,10 @@
-# Julio Cesar Forero - Portfolio Profesional
+# Julio César Forero - Portfolio Profesional
 
 ## 🚀 Desarrollador Full Stack & Arquitecto de Software
 
-**LinkedIn:** [Julio Cesar Forero](https://www.linkedin.com/in/julio-cesar-forero-orjuela/)  
-**Email:** julio.cesar.forero@gmail.com  
+**LinkedIn:** [Julio César Forero](https://www.linkedin.com/in/juliocesarforero)  
+**Email:** jcesarforero@gmail.com  
+**GitHub** [GitHub_JCFO](https://github.com/JulioCesarForero)
 **Ubicación:** Bogotá, Colombia  
 
 ---
@@ -60,7 +61,7 @@ Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresar
 ## 📚 Educación
 
 ### **Maestría en Ingeniería de Software (MISO)**
-**Universidad de los Andes** | 2022 - 2024 (En curso)
+**Universidad de los Andes** | 2023 - 2025 (En curso Ultimo Semestre)
 
 **Cursos Destacados:**
 - Desarrollo Full Stack con Python, React, Angular
@@ -148,7 +149,7 @@ Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresar
 ## 🔗 Enlaces de Contacto
 
 - **LinkedIn**: [Julio Cesar Forero](https://www.linkedin.com/in/julio-cesar-forero-orjuela/)
-- **Email**: julio.cesar.forero@gmail.com
+- **Email**: jcesarforero@gmail.com
 - **GitHub**: [@julio-cesar-forero](https://github.com/julio-cesar-forero)
 
 ---
