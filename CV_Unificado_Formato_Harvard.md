@@ -6,8 +6,8 @@
 - 📞 320 858 7713
 - ✉️ jcesarforero@gmail.com
 - 🏠 Bogotá, Colombia
-- 🔗 linkedin.com/in/julio-cesar-forero-orjuela
-- 🐙 github.com/julio-cesar-forero
+- 🔗 https://www.linkedin.com/in/juliocesarforero/
+- 🐙 https://github.com/JulioCesarForero
 
 ---
 
@@ -15,7 +15,7 @@
 
 Ingeniero Electrónico con más de 10 años de experiencia en desarrollo de software y transformación digital. Especializado en la aplicación de Inteligencia Artificial (IA) para la optimización de procesos internos y toma de decisiones. Cuento con experiencia en el diseño e implementación de soluciones basadas en LLM, RAG, NLP, OCR y automatización de tareas mediante modelos de IA generativos.
 
-En mi ejercicio laboral he destacado por comprender las necesidades del cliente interno y externo, arquitectar soluciones y seleccionar la mejor tecnología de solución aplicando metodologías como Design Thinking y Domain-Driven Design (DDD). Alto conocimiento en el desarrollo de arquitecturas escalables en la nube y aplicación de metodologías ágiles como DevOps, TDD y BPM.
+En mi ejercicio laboral he destacado por comprender las necesidades del cliente interno y externo, arquitectar soluciones y seleccionar la mejor tecnología de solución aplicando metodologías como Design Thinking. Conocimiento en el desarrollo de arquitecturas escalables en la nube y aplicación de metodologías ágiles como DevOps, TDD y BPM.
 
 ---
 
@@ -38,22 +38,22 @@ En mi ejercicio laboral he destacado por comprender las necesidades del cliente 
 
 **Accion Point - Toolnology Colombia** | Bogotá, Colombia
 *Especialista en LowCode Inteligencia Artificial y Preventa* | 2023 - 2025
-- Diseñé y desarrollé soluciones basadas en IA, incluyendo GPT, LLM, RAG, NLP y OCR para automatización de procesos empresariales
-- Implementé asistentes de IA que redujeron el tiempo de procesamiento de tareas en un 60% mediante automatización inteligente
-- Desarrollé modelos de IA para análisis de imágenes y procesamiento de documentos, mejorando la precisión en un 85%
-- Creé chatbots conversacionales con GPT y RAG que incrementaron la satisfacción del cliente en un 40%
-- Desplegué soluciones en Python, Flask, Docker, GCP y AWS, logrando 99.9% de disponibilidad
-- Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes y metodologías de desarrollo ágil
+- Diseñé y desarrollé soluciones basadas en IA, incluyendo GPT, LLM, RAG, NLP y OCR para automatización de procesos para diversas industrias de Seguros, Marroquinería, logistica y trasporte, legal. 
+- Implementé asistentes de IA que redujeron el tiempo de procesamiento de tareas en un 60% mediante automatizaciónes e integraciones de diferntes servicios y proveedores.
+- Creé chatbots conversacionales con GPT, RAG, API Chat, que incrementaron la satisfacción y eficiencia de usuarios en sus tareas.
+- Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes IA, LowCode, Automatización de Procesos y metodologías de desarrollo ágil y DEVOPS.
 
 **Accion Point** | Bogotá, Colombia
-*Desarrollador Senior - Líder Técnico en Desarrollo de Software* | 2017 - 2023
-- Lideré el desarrollo de 5+ aplicaciones para bancos y entidades financieras utilizando GeneXus, .NET y Java, gestionando equipos de 5-8 personas
-- Desarrollé producto para auditorías en concesiones viales (Tomás Gregg) con arquitectura MVC monolítica en Java y MySQL Server, implementando carga de evidencia fotográfica y cálculo de SLA
-- Migré sistema de gestión de inventarios y proceso de carnes en frigorífico Guadalupe de GeneXus 8 a GeneXus 15, optimizando procesos operativos
-- Creé aplicación web para gestión de presupuestos anuales del club de suboficiales de las fuerzas militares, integrando CRM y ERP con arquitectura MVC
-- Implementé validación de listas negras y procesos de integración en sector financiero utilizando core bancario Bantotal con tecnología Oracle y Java
-- Optimicé procesos mediante soluciones BPM y automatización con servicios REST, reduciendo tiempo de respuesta en 15%.
-- Implementé arquitecturas escalables con bases de datos SQL Server, MySQL, Oracle y PostgreSQL para aplicaciones críticas de diversos sectores. 
+*Desarrollador Senior - Líder Técnico en Desarrollo de Software LowCode* | 2017 - 2023
+- Desarrollé y mantuve producto web para auditorías en concesiones viales con arquitectura MVC monolítica en Java y MySQL Server, implementando carga de evidencia fotográfica y cálculo de SLA y KPIs
+- Migré sistema de gestión de inventarios y proceso de carnes en frigorífico de GeneXus 8 a GeneXus 15, optimizando procesos operativos e integraciones en líneas de pesaje, bodega e inventario. 
+- Creé aplicación web para gestión de presupuestos anuales para entidad de las fuerzas armadas, integrando el CRM a la aplicación con arquitectura MVC, C#, SQL Server. 
+- Implementé validación de listas negras, generacion de reportes y procesos de integración y validacion para trasnacciones con tarjeta debito en sector financiero utilizando core bancario Bantotal con tecnología Oracle y Java.
+- Optimicé procesos de auditoría y ejecución de scripts para empresa de retail a distintos motores de bases de datos mediante solución BPM, reduciendo tiempos de respuesta y gestion opracional en 35%.
+- Mantuve y evolucioné aplicación Web y Mobile (IOS Android) para entidad mixta financiera y de seguros, integrando Core SAP mediante servicios SOAP y CRM mediante servicios REST, permitiendo consultas de cupos y seguros de créditos para entidades financieras
+- Lideré y desarrollé, junto a un equipo de siete personas (desarrolladores, testers, PM y Tech Lead), la aplicación IDP, integrando el Directorio Activo, el CRM y otras aplicaciones de terceros mediante un bus de orquestación de APIs, con el fin de garantizar el inicio de sesión único (SSO) entre las aplicaciones misionales de la organización.
+- Lideré y desarrollé junto a un equipo de diez personas la migración y evolución de 2 aplicaciones del core de industria gráfica y proveedores de suministros, integrando servicios de transporte y logística al sistema de bodega e inventario.
+- Participé en el desarrollo y refactorización del sistema de gestión catastral para Catastro de Salta Argentina, implementando gestion de pases para procesos catastrales con identificación única de inmuebles y la integración con Mercado Pago. 
 
 
 
@@ -63,8 +63,8 @@ En mi ejercicio laboral he destacado por comprender las necesidades del cliente 
 - Implementé arquitectura MVC con servicios REST para la comunicación entre módulos, utilizando SQL Server y C# .NET.
 - Desarrollé la capa de servicios móviles y módulos de gestión de inventarios para medicamentos en clínicas veterinarias.
 - Integré APIs externas como Google Maps, envío de SMS y correo electrónico para funcionalidades de localización y comunicación, entre usuarios de las aplicaciones.
-- Colaboré en la integración de módulos para gestión de veterinarias, centros comerciales y comunidades.
-- Desarrollé completamente desde cero una aplicación (MVP) para gestión de médicos y rutas médicas, conectando médicos y pacientes
+- Colaboré en el desarrollo y la integración de módulos para gestión de veterinarias, centros comerciales y comunidades.
+- Desarrollé completamente desde cero una aplicación (MVP) para gestión de médicos y rutas médicas, conectando médicos y pacientes.
 - Participé en el despliegue exitoso de los productos en ambientes de producción cloud EC2 y RDS, logrando implementación en clínicas a nivel nacional. 
 
 **ACS Automatic Control Solutions LTDA** | Bogotá, Colombia
