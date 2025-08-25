@@ -63,3 +63,4 @@
 - **Usa palabras clave** de la descripción del puesto
 - **Mantén** la consistencia en el formato
 - **Revisa** ortografía y gramática antes de enviar
+

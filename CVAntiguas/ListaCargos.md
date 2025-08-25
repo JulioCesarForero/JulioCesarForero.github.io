@@ -65,56 +65,6 @@ Diversity & Inclusion
 At Nu, we want to be sure that we're building a more diverse and inclusive workplace that reflects the customers we serve and seek to empower. That's why we hire based on equality. We consider gender, ethnicity, race, religion, sexual orientation, and other identity markers as enriching elements to our company while ensuring neither of them represent a barrier when recruiting fantastic talent.
 
 
-
-## 2 Banco Davivienda - Arquitecto Ágil
-
-Acerca del empleo
-Aquí tenemos claro que la alegría, el entusiasmo y buen humor nos permite co-crear juntos y lograr grandes retos.
-
-
-
-
-
-Tú puedes ser nuestro (a) próximo (a) Arquitecto Ágil, donde tendrás el reto de contribuir al diseño e implementación de arquitecturas evolutivas en los productos digitales en los que participe, apoyando la definición de la visión tecnológica y garantizando la aplicación de buenas prácticas de desarrollo. El Arquitecto es responsable de asegurar la calidad técnica del producto desde una perspectiva de arquitectura, alineándose con los estándares definidos por la organización
-
-
-Principales función
-
-Garantizar la calidad técnica en cada sprint siguiendo lineamientos arquitectónicos.
-Apoyar en la definición del roadmap del producto.
-Definir una visión arquitectónica evolutiva del producto.
-Diseñar componentes que cumplan con atributos de calidad como seguridad y desempeño.
-
-
-Requisitos
-
-Mínimo 2 a 4 años de experiencia liderando equipos de desarrollo
-Experiencia mínima de 2 a 4 años diseñando arquitecturas en la nube Cloud
-Conocimiento técnico en desarrollo de software
-Conocimiento en nube AWS, Azure y GCP
-Conocimientos en arquitectura de software y construcción de aplicaciones
-Conocimiento en DevSecOps y en metodologías ágiles
-Conocimiento y dominio de lenguajes de programación: NodeJs, Java, Python, Angular, React
-
-
-Formación académica
-
-Profesional en Ingeniería de software y/o afines.
-Deseable especialización o maestría en desarrollo de software
-Deseable certificación en nube
-
-
-Condiciones
-
-- Vinculación directa a término indefinido
-- Ciudad Bogotá
--Rango salarial: A convenir
-
-
-¡Sean parte de Banco Davivienda! Una empresa donde nuestra gente está primero. Les proponemos vivir una aventura en nuestra cultura de transformación, innovación, liderazgo, pero sobre todo de mucha diversión. En Banco Davivienda, juntos transformamos retos en posibilidades y queremos invitarlos a ser parte de esto. #JuntosTransformamosretosenoportunidades
-
-
-
 ## 3 EPAM Systems - SRE Architect
 
 Acerca del empleo
@@ -179,6 +129,67 @@ Global career opportunities
 Volunteer and community involvement opportunities
 EPAM Employee Groups
 Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2 Banco Davivienda - Arquitecto Ágil
+
+Acerca del empleo
+Aquí tenemos claro que la alegría, el entusiasmo y buen humor nos permite co-crear juntos y lograr grandes retos.
+
+Tú puedes ser nuestro (a) próximo (a) Arquitecto Ágil, donde tendrás el reto de contribuir al diseño e implementación de arquitecturas evolutivas en los productos digitales en los que participe, apoyando la definición de la visión tecnológica y garantizando la aplicación de buenas prácticas de desarrollo. El Arquitecto es responsable de asegurar la calidad técnica del producto desde una perspectiva de arquitectura, alineándose con los estándares definidos por la organización
+
+
+Principales función
+
+Garantizar la calidad técnica en cada sprint siguiendo lineamientos arquitectónicos.
+Apoyar en la definición del roadmap del producto.
+Definir una visión arquitectónica evolutiva del producto.
+Diseñar componentes que cumplan con atributos de calidad como seguridad y desempeño.
+
+
+Requisitos
+
+Mínimo 2 a 4 años de experiencia liderando equipos de desarrollo
+Experiencia mínima de 2 a 4 años diseñando arquitecturas en la nube Cloud
+Conocimiento técnico en desarrollo de software
+Conocimiento en nube AWS, Azure y GCP
+Conocimientos en arquitectura de software y construcción de aplicaciones
+Conocimiento en DevSecOps y en metodologías ágiles
+Conocimiento y dominio de lenguajes de programación: NodeJs, Java, Python, Angular, React
+
+
+Formación académica
+
+Profesional en Ingeniería de software y/o afines.
+Deseable especialización o maestría en desarrollo de software
+Deseable certificación en nube
+
+
+Condiciones
+
+- Vinculación directa a término indefinido
+- Ciudad Bogotá
+-Rango salarial: A convenir
+
+
+¡Sean parte de Banco Davivienda! Una empresa donde nuestra gente está primero. Les proponemos vivir una aventura en nuestra cultura de transformación, innovación, liderazgo, pero sobre todo de mucha diversión. En Banco Davivienda, juntos transformamos retos en posibilidades y queremos invitarlos a ser parte de esto. #JuntosTransformamosretosenoportunidades
 
 
 
