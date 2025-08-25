@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <!-- Calendly CSS -->
+    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 </head>
 <body>
     <!-- Header -->
@@ -17,11 +19,17 @@
                 <span>Arquitecto Ágil & Líder Técnico</span>
             </div>
             <ul class="nav-menu">
-                <li><a href="#about">Sobre Mí</a></li>
-                <li><a href="#experience">Experiencia</a></li>
-                <li><a href="#skills">Habilidades</a></li>
-                <li><a href="#projects">Proyectos</a></li>
-                <li><a href="#contact">Contacto</a></li>
+                <li><a href="#about" data-es="Sobre Mí" data-en="About">Sobre Mí</a></li>
+                <li><a href="#experience" data-es="Experiencia" data-en="Experience">Experiencia</a></li>
+                <li><a href="#skills" data-es="Habilidades" data-en="Skills">Habilidades</a></li>
+                <li><a href="#projects" data-es="Proyectos" data-en="Projects">Proyectos</a></li>
+                <li><a href="#contact" data-es="Contacto" data-en="Contact">Contacto</a></li>
+                <li class="language-switcher">
+                    <button id="langToggle" class="lang-btn">
+                        <span class="lang-text">EN</span>
+                        <i class="fas fa-globe"></i>
+                    </button>
+                </li>
             </ul>
             <div class="nav-toggle">
                 <span></span>
@@ -36,11 +44,11 @@
         <div class="hero-content" style="margin-left: 50px;margin-right: 50px;">
             <div class="hero-text">
                 <h1>Julio Cesar Forero</h1>
-                <h2>Arquitecto Ágil & Líder Técnico</h2>
-                <p>Ingeniero Electrónico con más de 10 años de experiencia en arquitectura de software y liderazgo técnico. Especializado en el diseño de arquitecturas evolutivas, metodologías ágiles y transformación digital.</p>
+                <h2 data-es="Arquitecto Ágil & Líder Técnico" data-en="Agile Architect & Technical Leader">Arquitecto Ágil & Líder Técnico</h2>
+                <p data-es="Ingeniero Electrónico con más de 10 años de experiencia en arquitectura de software y liderazgo técnico. Especializado en el diseño de arquitecturas evolutivas, metodologías ágiles y transformación digital." data-en="Electronic Engineer with over 10 years of experience in software architecture and technical leadership. Specialized in evolutionary architecture design, agile methodologies and digital transformation.">Ingeniero Electrónico con más de 10 años de experiencia en arquitectura de software y liderazgo técnico. Especializado en el diseño de arquitecturas evolutivas, metodologías ágiles y transformación digital.</p>
                 <div class="hero-buttons">
-                    <a href="#contact" class="btn btn-primary">Contactar</a>
-                    <a href="#projects" class="btn btn-secondary">Ver Proyectos</a>
+                    <a href="#contact" class="btn btn-primary" data-es="Contactar" data-en="Contact">Contactar</a>
+                    <a href="#projects" class="btn btn-secondary" data-es="Ver Proyectos" data-en="View Projects">Ver Proyectos</a>
                 </div>
             </div>
             <div class="hero-image">
@@ -49,10 +57,10 @@
                         <i class="fas fa-user-circle"></i>
                     </div>
                     <div class="profile-info">
-                        <h3>Ubicación</h3>
-                        <p>Bogotá, Colombia</p>
-                        <h3>Disponibilidad</h3>
-                        <p>Abierto a Oportunidades</p>
+                        <h3 data-translate="hero-location">Ubicación</h3>
+                        <p data-translate="hero-location-value">Bogotá, Colombia</p>
+                        <h3 data-translate="hero-availability">Disponibilidad</h3>
+                        <p data-translate="hero-availability-value">Abierto a Oportunidades</p>
                     </div>
                 </div>
             </div>
@@ -60,19 +68,19 @@
         <div class="hero-stats">
             <div class="stat">
                 <h3>10+</h3>
-                <p>Años de Experiencia</p>
+                <p data-translate="hero-stats-years">Años de Experiencia</p>
             </div>
             <div class="stat">
                 <h3>15+</h3>
-                <p>Proyectos Liderados</p>
+                <p data-translate="hero-stats-projects">Proyectos Liderados</p>
             </div>
             <div class="stat">
                 <h3>7+</h3>
-                <p>Personas en Equipo</p>
+                <p data-translate="hero-stats-team">Personas en Equipo</p>
             </div>
             <div class="stat">
                 <h3>2</h3>
-                <p>Años de Maestría</p>
+                <p data-translate="hero-stats-masters">Años de Maestría</p>
             </div>
         </div>
     </section>
@@ -80,40 +88,40 @@
     <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
-            <h2 class="section-title">Sobre Mí</h2>
+            <h2 class="section-title" data-translate="about-title">Sobre Mí</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <h3>🎯 Perfil Profesional</h3>
-                    <p>Experiencia comprobada en liderazgo de equipos de desarrollo, implementación de soluciones cloud, y aplicación de buenas prácticas de desarrollo. Capacidad demostrada para alinear la visión tecnológica con los objetivos de negocio, garantizando la calidad técnica y la aplicación de estándares arquitectónicos.</p>
+                    <h3 data-translate="about-profile-title">🎯 Perfil Profesional</h3>
+                    <p data-translate="about-profile-text">Experiencia comprobada en liderazgo de equipos de desarrollo, implementación de soluciones cloud, y aplicación de buenas prácticas de desarrollo. Capacidad demostrada para alinear la visión tecnológica con los objetivos de negocio, garantizando la calidad técnica y la aplicación de estándares arquitectónicos.</p>
                     
-                    <h3>🌟 Objetivos Profesionales</h3>
+                    <h3 data-translate="about-goals-title">🌟 Objetivos Profesionales</h3>
                     <ul>
-                        <li><strong>Corto Plazo:</strong> Completar Maestría MISO y obtener certificaciones AWS</li>
-                        <li><strong>Mediano Plazo:</strong> Consolidar rol de Arquitecto de Software</li>
-                        <li><strong>Largo Plazo:</strong> Especialista en Cloud & DevOps e IA Aplicada</li>
+                        <li><strong data-translate="about-goals-short">Corto Plazo:</strong> <span data-translate="about-goals-short-text">Completar Maestría MISO y obtener certificaciones AWS</span></li>
+                        <li><strong data-translate="about-goals-medium">Mediano Plazo:</strong> <span data-translate="about-goals-medium-text">Consolidar rol de Arquitecto de Software</span></li>
+                        <li><strong data-translate="about-goals-long">Largo Plazo:</strong> <span data-translate="about-goals-long-text">Especialista en Cloud & DevOps e IA Aplicada</span></li>
                     </ul>
 
-                    <h3>💼 Por Qué Trabajar Conmigo</h3>
+                    <h3 data-translate="about-why-title">💼 Por Qué Trabajar Conmigo</h3>
                     <ul>
-                        <li><strong>Liderazgo Técnico:</strong> Experiencia comprobada liderando equipos de 7-10 personas</li>
-                        <li><strong>Arquitectura de Software:</strong> Diseño de arquitecturas evolutivas y patrones arquitectónicos</li>
-                        <li><strong>Metodologías Ágiles:</strong> Implementación de DevOps, Agile, SCRUM, TDD, BDD</li>
-                        <li><strong>Transformación Digital:</strong> Migración exitosa de sistemas legacy a modernos</li>
-                        <li><strong>Innovación:</strong> Experiencia en IA aplicada y automatización de procesos</li>
+                        <li><strong data-translate="about-why-leadership">Liderazgo Técnico:</strong> <span data-translate="about-why-leadership-text">Experiencia comprobada liderando equipos de 7-10 personas</span></li>
+                        <li><strong data-translate="about-why-architecture">Arquitectura de Software:</strong> <span data-translate="about-why-architecture-text">Diseño de arquitecturas evolutivas y patrones arquitectónicos</span></li>
+                        <li><strong data-translate="about-why-agile">Metodologías Ágiles:</strong> <span data-translate="about-why-agile-text">Implementación de DevOps, Agile, SCRUM, TDD, BDD</span></li>
+                        <li><strong data-translate="about-why-digital">Transformación Digital:</strong> <span data-translate="about-why-digital-text">Migración exitosa de sistemas legacy a modernos</span></li>
+                        <li><strong data-translate="about-why-innovation">Innovación:</strong> <span data-translate="about-why-innovation-text">Experiencia en IA aplicada y automatización de procesos</span></li>
                     </ul>
                 </div>
                 <div class="about-image">
                     <div class="education-card">
-                        <h3>📚 Educación</h3>
+                        <h3 data-translate="about-education-title">📚 Educación</h3>
                         <div class="education-item">
-                            <h4>Maestría en Ingeniería de Software (MISO)</h4>
-                            <p>Universidad de los Andes</p>
-                            <span>2023 - 2025 (Último Semestre)</span>
+                            <h4 data-translate="about-education-masters">Maestría en Ingeniería de Software (MISO)</h4>
+                            <p data-translate="about-education-masters-uni">Universidad de los Andes</p>
+                            <span data-translate="about-education-masters-period">2023 - 2025 (Último Semestre)</span>
                         </div>
                         <div class="education-item">
-                            <h4>Ingeniería Electrónica</h4>
-                            <p>Universidad Santo Tomás de Aquino</p>
-                            <span>2005 - 2010</span>
+                            <h4 data-translate="about-education-engineering">Ingeniería Electrónica</h4>
+                            <p data-translate="about-education-engineering-uni">Universidad Santo Tomás de Aquino</p>
+                            <span data-translate="about-education-engineering-period">2005 - 2010</span>
                         </div>
                     </div>
                 </div>
@@ -124,10 +132,10 @@
     <!-- Skills Section -->
     <section id="skills" class="skills">
         <div class="container">
-            <h2 class="section-title">Habilidades Técnicas</h2>
+            <h2 class="section-title" data-translate="skills-title">Habilidades Técnicas</h2>
             <div class="skills-grid">
                 <div class="skill-category">
-                    <h3><i class="fas fa-archway"></i> Arquitectura de Software</h3>
+                    <h3><i class="fas fa-archway"></i> <span data-translate="skills-architecture">Arquitectura de Software</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">MVC</span>
                         <span class="skill-tag">Microservicios</span>
@@ -139,7 +147,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-cloud"></i> Cloud & DevOps</h3>
+                    <h3><i class="fas fa-cloud"></i> <span data-translate="skills-cloud">Cloud & DevOps</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">AWS</span>
                         <span class="skill-tag">GCP</span>
@@ -151,7 +159,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-code"></i> Lenguajes & Frameworks</h3>
+                    <h3><i class="fas fa-code"></i> <span data-translate="skills-languages">Lenguajes & Frameworks</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">Python/Flask</span>
                         <span class="skill-tag">JavaScript</span>
@@ -163,7 +171,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-database"></i> Bases de Datos</h3>
+                    <h3><i class="fas fa-database"></i> <span data-translate="skills-databases">Bases de Datos</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">SQL Server</span>
                         <span class="skill-tag">MySQL</span>
@@ -175,7 +183,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-vial"></i> Metodologías & Testing</h3>
+                    <h3><i class="fas fa-vial"></i> <span data-translate="skills-methodologies">Metodologías & Testing</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">DevOps</span>
                         <span class="skill-tag">Agile</span>
@@ -187,7 +195,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-robot"></i> Inteligencia Artificial</h3>
+                    <h3><i class="fas fa-robot"></i> <span data-translate="skills-ai">Inteligencia Artificial</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">GPT</span>
                         <span class="skill-tag">LLM</span>
@@ -199,7 +207,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-cogs"></i> Low-Code & GeneXus</h3>
+                    <h3><i class="fas fa-cogs"></i> <span data-translate="skills-lowcode">Low-Code & GeneXus</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">GeneXus 8-18</span>
                         <span class="skill-tag">BPM Suite</span>
@@ -211,7 +219,7 @@
                 </div>
                 
                 <div class="skill-category">
-                    <h3><i class="fas fa-tools"></i> Herramientas & Integración</h3>
+                    <h3><i class="fas fa-tools"></i> <span data-translate="skills-tools">Herramientas & Integración</span></h3>
                     <div class="skill-tags">
                         <span class="skill-tag">Airtable</span>
                         <span class="skill-tag">Power Automate</span>
@@ -228,7 +236,7 @@
     <!-- Experience Section -->
     <section id="experience" class="experience">
         <div class="container">
-            <h2 class="section-title">Experiencia Profesional</h2>
+            <h2 class="section-title" data-translate="experience-title">Experiencia Profesional</h2>
             <div class="experience-carousel">
                 <div class="experience-card">
                     <div class="experience-header">
@@ -237,7 +245,7 @@
                         <span class="period">2023 - 2025</span>
                     </div>
                     <div class="experience-body">
-                        <h4>Logros Destacados:</h4>
+                        <h4 data-translate="experience-achievements">Logros Destacados:</h4>
                         <ul>
                             <li>🤖 <strong>Soluciones de IA:</strong> Desarrollé soluciones con GPT, LLM, RAG, NLP y OCR para automatización de procesos en industrias de Seguros, Marroquinería, logística y transporte, legal</li>
                             <li>⚡ <strong>Automatización Inteligente:</strong> Implementé asistentes de IA que redujeron tiempo de procesamiento en 60% mediante automatizaciones e integraciones</li>
@@ -245,7 +253,7 @@
                             <li>🎓 <strong>Capacitación:</strong> Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes IA, LowCode, Automatización de Procesos y metodologías ágiles</li>
                         </ul>
                         <div class="technologies">
-                            <strong>Tecnologías:</strong> Python/Flask, GPT, LLM, RAG, NLP, OCR, Docker, GCP, AWS
+                            <strong data-translate="experience-technologies">Tecnologías:</strong> Python/Flask, GPT, LLM, RAG, NLP, OCR, Docker, GCP, AWS
                         </div>
                     </div>
                 </div>
@@ -257,7 +265,7 @@
                         <span class="period">2017 - 2023</span>
                     </div>
                     <div class="experience-body">
-                        <h4>Logros Destacados:</h4>
+                        <h4 data-translate="experience-achievements">Logros Destacados:</h4>
                         <ul>
                             <li>🏦 <strong>Sistema IDP - Single Sign-On:</strong> Lideré equipo de 7 personas en desarrollo de aplicación de identidad federada, integrando Directorio Activo, CRM y aplicaciones de terceros mediante bus de orquestación de APIs</li>
                             <li>🏭 <strong>Migración Core Industrial:</strong> Lideré equipo de 10 personas en migración y evolución de 2 aplicaciones del core de industria gráfica, integrando servicios de transporte y logística</li>
@@ -266,7 +274,7 @@
                             <li>📊 <strong>Optimización Retail:</strong> Optimicé procesos de auditoría y ejecución de scripts mediante solución BPM, reduciendo tiempos de respuesta en 35%</li>
                         </ul>
                         <div class="technologies">
-                            <strong>Tecnologías:</strong> GeneXus, .NET, Java, SQL Server, MySQL, Oracle, PostgreSQL, BPM, REST, SOAP
+                            <strong data-translate="experience-technologies">Tecnologías:</strong> GeneXus, .NET, Java, SQL Server, MySQL, Oracle, PostgreSQL, BPM, REST, SOAP
                         </div>
                     </div>
                 </div>
@@ -278,7 +286,7 @@
                         <span class="period">2016 - 2017</span>
                     </div>
                     <div class="experience-body">
-                        <h4>Logros Destacados:</h4>
+                        <h4 data-translate="experience-achievements">Logros Destacados:</h4>
                         <ul>
                             <li>🏘️ <strong>Producto "Do":</strong> Participé en desarrollo de plataforma para gestión de comunidades utilizando GeneXus LowCode en entornos .NET con equipo de 5 desarrolladores</li>
                             <li>🏥 <strong>Sector Salud:</strong> Desarrollé módulos de gestión de inventarios para medicamentos en clínicas veterinarias</li>
@@ -286,7 +294,7 @@
                             <li>☁️ <strong>Despliegue Cloud:</strong> Participé en despliegue exitoso de productos en ambientes de producción cloud EC2 y RDS, logrando implementación en clínicas a nivel nacional</li>
                         </ul>
                         <div class="technologies">
-                            <strong>Tecnologías:</strong> GeneXus, .NET, Java, SQL Server, C#, MVC, REST, AWS EC2/RDS
+                            <strong data-translate="experience-technologies">Tecnologías:</strong> GeneXus, .NET, Java, SQL Server, C#, MVC, REST, AWS EC2/RDS
                         </div>
                     </div>
                 </div>
@@ -301,7 +309,7 @@
     <!-- Projects Section -->
     <section id="projects" class="projects">
         <div class="container">
-            <h2 class="section-title">Proyectos Destacados</h2>
+            <h2 class="section-title" data-translate="projects-title">Proyectos Destacados</h2>
             <div class="projects-grid">
                 <div class="project-card">
                     <div class="project-header">
@@ -320,7 +328,7 @@
                         <span>SSO entre aplicaciones</span>
                     </div>
                     <div class="project-result">
-                        <strong>Resultado:</strong> Implementación exitosa de SSO entre aplicaciones misionales
+                        <strong data-translate="projects-result">Resultado:</strong> Implementación exitosa de SSO entre aplicaciones misionales
                     </div>
                 </div>
                 
@@ -341,7 +349,7 @@
                         <span>Integración logística</span>
                     </div>
                     <div class="project-result">
-                        <strong>Resultado:</strong> Migración exitosa sin interrupciones del servicio
+                        <strong data-translate="projects-result">Resultado:</strong> Migración exitosa sin interrupciones del servicio
                     </div>
                 </div>
                 
@@ -362,7 +370,7 @@
                         <span>API REST</span>
                     </div>
                     <div class="project-result">
-                        <strong>Resultado:</strong> Mejora significativa en calidad y eficiencia del servicio al cliente
+                        <strong data-translate="projects-result">Resultado:</strong> Mejora significativa en calidad y eficiencia del servicio al cliente
                     </div>
                 </div>
             </div>
@@ -372,7 +380,7 @@
     <!-- Certifications Section -->
     <section class="certifications">
         <div class="container">
-            <h2 class="section-title">Certificaciones</h2>
+            <h2 class="section-title" data-translate="certifications-title">Certificaciones</h2>
             <div class="cert-grid">
                 <div class="cert-card">
                     <div class="cert-icon">
@@ -380,7 +388,7 @@
                     </div>
                     <h3>AWS Solutions Architect</h3>
                     <p>Associate (En progreso)</p>
-                    <span class="cert-status in-progress">En Progreso</span>
+                    <span class="cert-status in-progress" data-translate="cert-in-progress">En Progreso</span>
                 </div>
                 
                 <div class="cert-card">
@@ -389,7 +397,7 @@
                     </div>
                     <h3>SCRUM Fundamentals</h3>
                     <p>SFC</p>
-                    <span class="cert-status completed">Completado</span>
+                    <span class="cert-status completed" data-translate="cert-completed">Completado</span>
                 </div>
                 
                 <div class="cert-card">
@@ -398,7 +406,7 @@
                     </div>
                     <h3>GeneXus Workflow BPM</h3>
                     <p>Certificado</p>
-                    <span class="cert-status completed">Completado</span>
+                    <span class="cert-status completed" data-translate="cert-completed">Completado</span>
                 </div>
                 
                 <div class="cert-card">
@@ -407,7 +415,7 @@
                     </div>
                     <h3>Docker</h3>
                     <p>Guía Práctica para Desarrolladores</p>
-                    <span class="cert-status completed">Completado</span>
+                    <span class="cert-status completed" data-translate="cert-completed">Completado</span>
                 </div>
                 
                 <div class="cert-card">
@@ -416,7 +424,7 @@
                     </div>
                     <h3>Airtable</h3>
                     <p>Bases de Datos NoCode</p>
-                    <span class="cert-status completed">Completado</span>
+                    <span class="cert-status completed" data-translate="cert-completed">Completado</span>
                 </div>
                 
                 <div class="cert-card">
@@ -425,7 +433,7 @@
                     </div>
                     <h3>Latam Architecture Day</h3>
                     <p>2025</p>
-                    <span class="cert-status completed">Completado</span>
+                    <span class="cert-status completed" data-translate="cert-completed">Completado</span>
                 </div>
             </div>
         </div>
@@ -434,11 +442,11 @@
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
-            <h2 class="section-title">Contacto</h2>
+            <h2 class="section-title" data-translate="contact-title">Contacto</h2>
             <div class="contact-content">
                 <div class="contact-info">
-                    <h3>¡Hablemos!</h3>
-                    <p>Estoy abierto a nuevas oportunidades y colaboraciones. Si te interesa mi perfil o quieres discutir algún proyecto, no dudes en contactarme.</p>
+                    <h3 data-translate="contact-subtitle">¡Hablemos!</h3>
+                    <p data-translate="contact-description">Estoy abierto a nuevas oportunidades y colaboraciones. Si te interesa mi perfil o quieres discutir algún proyecto, no dudes en contactarme.</p>
                     
                     <div class="contact-methods">
                         <div class="contact-method">
@@ -472,33 +480,54 @@
                                 <a href="tel:+573208587713">+57 320 858 7713</a>
                             </div>
                         </div>
+                        
+                        <div class="contact-method">
+                            <i class="fas fa-calendar-alt"></i>
+                            <div>
+                                <h4 data-translate="contact-schedule">Agendar Reunión</h4>
+                                <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jcesarforero/30min'});return false;" data-translate="contact-schedule-link">Reserva 30 minutos</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="contact-form">
-                    <form id="contactForm">
-                        <div class="form-group">
-                            <label for="name">Nombre</label>
-                            <input type="text" id="name" name="name" required>
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="email">Email</label>
-                            <input type="email" id="email" name="email" required>
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="subject">Asunto</label>
-                            <input type="text" id="subject" name="subject" required>
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="message">Mensaje</label>
-                            <textarea id="message" name="message" rows="5" required></textarea>
-                        </div>
-                        
-                        <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
-                    </form>
+                <div class="contact-options">
+                    <div class="contact-tabs">
+                        <button class="tab-btn active" onclick="showContactForm()" data-translate="contact-form-tab">Formulario</button>
+                        <button class="tab-btn" onclick="showCalendly()" data-translate="contact-calendar-tab">Agendar Reunión</button>
+                    </div>
+                    
+                    <div id="contact-form-section" class="contact-form">
+                        <form id="contactForm">
+                            <div class="form-group">
+                                <label for="name" data-translate="contact-name">Nombre</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="subject" data-translate="contact-subject">Asunto</label>
+                                <input type="text" id="subject" name="subject" required>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="message" data-translate="contact-message">Mensaje</label>
+                                <textarea id="message" name="message" rows="5" required></textarea>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary" data-translate="contact-send">Enviar Mensaje</button>
+                        </form>
+                    </div>
+                    
+                    <div id="calendly-section" class="calendly-section" style="display: none;">
+                        <!-- Calendly inline widget begin -->
+                        <div class="calendly-inline-widget" data-url="https://calendly.com/jcesarforero/30min" style="min-width:320px;height:630px;"></div>
+                        <!-- Calendly inline widget end -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -526,12 +555,14 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Julio Cesar Forero. Todos los derechos reservados.</p>
+                <p>&copy; 2024 Julio Cesar Forero. <span data-translate="footer-copyright">Todos los derechos reservados.</span></p>
             </div>
         </div>
     </footer>
 
     <script src="script.js"></script>
+    <!-- Calendly widget script -->
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 </body>
 </html>
 
