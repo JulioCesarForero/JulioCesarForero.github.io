@@ -1,5 +1,5 @@
 # JULIO CESAR FORERO ORJUELA
-## DESARROLLADOR FULL STACK | CLOUD COMPUTING SPECIALIST | ARQUITECTO L2
+## DESARROLLADOR FULL STACK | CLOUD COMPUTING | ARQUITECTO L2
 
 ### INFORMACIÓN DE CONTACTO
 
@@ -13,7 +13,7 @@
 
 ### RESUMEN PROFESIONAL
 
-Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de software y arquitectura de sistemas cloud. Especializado en tecnologías modernas como React, Node.js, Python, Docker y plataformas cloud (AWS/GCP). Experiencia comprobada en diseño de arquitecturas escalables, implementación de microservicios y liderazgo técnico de equipos de desarrollo. Capacidad demostrada para optimizar procesos empresariales y lograr mejoras de eficiencia del 25-60% en múltiples proyectos.
+Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de software y liderazgo técnico. Especializado en arquitectura de software, metodologías ágiles y transformación digital. Experiencia comprobada en liderazgo de equipos de desarrollo, implementación de soluciones LowCode y aplicación de buenas prácticas de desarrollo. Actualmente en proceso de transición hacia tecnologías modernas como React, Node.js, Python y cloud computing gracias a la Maestría en Ingeniería de Software y proyectos personales.
 
 ---
 
@@ -22,96 +22,100 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 **Accion Point - Toolnology Colombia** | Bogotá, Colombia
 *Especialista en LowCode Inteligencia Artificial y Preventa* | 2023 - 2025
 
-- **Arquitectura de Soluciones Cloud**: Diseñé e implementé soluciones basadas en IA con arquitecturas escalables en cloud, integrando GPT, LLM, RAG, NLP y OCR para automatización de procesos empresariales
-- **Optimización de Procesos**: Implementé asistentes de IA que redujeron el tiempo de procesamiento de tareas en un **60%** mediante automatizaciones e integraciones de diferentes servicios cloud
-- **Desarrollo de APIs**: Creé chatbots conversacionales con GPT, RAG y API Chat, implementando arquitectura de microservicios y monitoreo en tiempo real
-- **Liderazgo Técnico**: Lideré 15+ capacitaciones técnicas sobre tecnologías emergentes, LowCode, Automatización de Procesos y metodologías DevOps
+- **Diseño de Soluciones con IA**: Diseñé e implementé soluciones basadas en IA, incluyendo GPT, LLM, RAG, NLP y OCR para automatización de procesos para diversas industrias de Seguros, Marroquinería, logística y transporte, legal
+- **Optimización de Procesos**: Implementé asistentes de IA que redujeron el tiempo de procesamiento de tareas hasta en un **60%** mediante automatizaciones e integraciones de diferentes servicios y proveedores
+- **Desarrollo de Chatbots**: Creé chatbots conversacionales con GPT, RAG, API Chat, que incrementaron la satisfacción y eficiencia de usuarios en sus tareas
+- **Liderazgo Técnico**: Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes IA, LowCode, Automatización de Procesos y metodologías de desarrollo ágil y DevOps
 
 **Accion Point** | Bogotá, Colombia
-*Desarrollador Senior - Líder Técnico en Desarrollo de Software* | 2017 - 2023
+*Desarrollador Senior - Líder Técnico en Desarrollo de Software LowCode* | 2017 - 2023
 
-- **Sistema IDP - Single Sign-On**: Lideré equipo de 7 desarrolladores en implementación de sistema IDP para SSO empresarial, integrando Directorio Activo, CRM y aplicaciones de terceros mediante bus de orquestación de APIs. **Resultado**: Integración exitosa de 15+ aplicaciones misionales, reduciendo tiempo de acceso en 70%
+- **Sistema IDP - Single Sign-On**: Lideré y desarrollé, junto a un equipo de siete personas (desarrolladores, testers, PM y Tech Lead), la aplicación IDP, integrando el Directorio Activo, el CRM y otras aplicaciones de terceros mediante un bus de orquestación de APIs, garantizando el inicio de sesión único (SSO) entre las aplicaciones misionales de la organización financiera Público/privada con presencia a nivel nacional
 
-- **Migración de Core de Industria Gráfica**: Lideré equipo de 10 personas en migración y evolución de 2 aplicaciones del core de industria gráfica. **Resultado**: Integración exitosa de servicios de transporte y logística al sistema de bodega e inventario
+- **Migración de Core de Industria Gráfica**: Lideré y desarrollé junto a un equipo de diez personas la migración y evolución de 2 aplicaciones del core de industria gráfica y proveedores de suministros, integrando servicios de transporte y logística al sistema de bodega, inventario y despacho de pedidos
 
-- **Sistema de Auditorías Viales**: Desarrollé y mantuve producto web para auditorías en concesiones viales con arquitectura MVC monolítica en Java y MySQL Server. **Resultado**: Implementación exitosa de carga de evidencia fotográfica y cálculo de SLA y KPIs, reduciendo tiempo de auditoría en 40%
+- **Aplicación de Gestión de Presupuestos**: Creé aplicación web para gestión de presupuestos anuales para entidad de las fuerzas armadas, integrando el CRM a la aplicación con arquitectura MVC, C#, SQL Server
 
-- **Aplicación de Gestión de Presupuestos**: Creé aplicación web para gestión de presupuestos anuales para entidad de fuerzas armadas, integrando CRM con arquitectura MVC, C# y SQL Server. **Resultado**: Centralización de presupuestos de 15+ departamentos con reportes en tiempo real
+- **Sistema de Validación Financiera**: Implementé validación de listas negras, generación de reportes y procesos de integración y validación para transacciones con tarjeta débito en sector financiero utilizando core bancario Bantotal con tecnología LowCode Oracle y Java
 
-- **Sistema de Validación Financiera**: Implementé validación de listas negras, generación de reportes y procesos de integración para transacciones con tarjeta débito en sector financiero. **Resultado**: Integración exitosa con core bancario Bantotal (Oracle/Java), procesando 10,000+ transacciones diarias
+- **Optimización de Procesos BPM**: Optimicé procesos de auditoría y ejecución de scripts para empresa de retail a distintos motores de bases de datos mediante solución BPM, reduciendo tiempos de respuesta y gestión operacional en 35%
 
-- **Optimización de Procesos BPM**: Optimicé procesos de auditoría y ejecución de scripts para empresa de retail mediante solución BPM. **Resultado**: Reducción del 35% en tiempos de respuesta y gestión operacional
+- **Aplicación Web y Mobile para Entidad Financiera**: Mantuve y evolucioné aplicación Web y Mobile (iOS Android) para entidad mixta financiera y de seguros, integrando Core SAP mediante servicios SOAP y CRM mediante servicios REST, permitiendo consultas de cupos y seguros de créditos para entidades financieras
+
+- **Sistema de Gestión Catastral**: Participé en el desarrollo y refactorización del sistema de gestión catastral para Catastro de Salta Argentina, implementando gestión de pases para procesos catastrales con identificación única de inmuebles y la integración con pasarela de pagos de Mercado Pago
 
 **Greenggers** | Bogotá, Colombia
 *Ingeniero Analista de Software GX LowCode* | 2016 - 2017
 
-- **Producto "Do" para Gestión de Comunidades**: Desarrollé producto de gestión de comunidades utilizando GeneXus LowCode en entornos .NET y Java. **Resultado**: Implementación exitosa en 20+ clínicas veterinarias a nivel nacional
+- **Producto "Do" para Gestión de Comunidades**: Participé en el Desarrollo del producto "Do" para gestión de comunidades utilizando GeneXus LowCode en entornos .NET, como parte de un equipo de 5 desarrolladores
 
-- **Aplicación MVP de Gestión Médica**: Desarrollé completamente desde cero aplicación para gestión de médicos y rutas médicas. **Resultado**: Conexión exitosa entre médicos y pacientes con funcionalidades de localización y comunicación
+- **Arquitectura MVC con Servicios REST**: Implementé arquitectura MVC con servicios REST para la comunicación entre módulos, utilizando SQL Server y C# .NET
 
-- **Integración de APIs Externas**: Implementé integración de Google Maps, envío de SMS y correo electrónico. **Resultado**: Funcionalidades de localización y comunicación entre usuarios de las aplicaciones
+- **Desarrollo de Servicios Móviles**: Desarrollé la capa de servicios móviles y módulos de gestión de inventarios para medicamentos en clínicas veterinarias
 
-- **Despliegue Cloud**: Participé en el despliegue exitoso de productos en ambientes de producción cloud EC2 y RDS
+- **Integración de APIs Externas**: Integré APIs externas como Google Maps, envío de SMS y correo electrónico para funcionalidades de localización y comunicación
 
-**ACS Automatic Control Solutions LTDA** | Bogotá, Colombia
-*Ingeniero de Proyectos - Especialista en Automatización* | 2013 - 2015
+- **Aplicación MVP de Gestión Médica**: Desarrollé completamente desde cero una aplicación (MVP) para gestión de médicos y rutas médicas, conectando médicos y pacientes
 
-- **Sistemas de Control Automatizado**: Programé y configuré PLCs e IPCs para sistemas de control automatizado en proyectos de domótica e inmótica. **Resultado**: Implementación exitosa de 15+ proyectos de automatización para grandes superficies comerciales y edificios corporativos
-
-- **Sistemas SCADA Personalizados**: Desarrollé e implementé sistemas SCADA utilizando Indusoft y Visual Basic. **Resultado**: Unificación y gestión centralizada de información en entornos industriales, reduciendo consumo energético entre 30-40%
-
-- **Sistemas de Control HVAC**: Programé sistemas de control para iluminación inteligente, HVAC y gestión energética. **Resultado**: Reducción del 25% en consumo energético y mejora de la eficiencia operativa
+- **Despliegue Cloud**: Participé en el despliegue exitoso de los productos en ambientes de producción cloud EC2 y RDS, logrando implementación en clínicas a nivel nacional
 
 ---
 
 ### EDUCACIÓN
 
 **Universidad de los Andes** | Bogotá, Colombia
-*Maestría en Ingeniería de Software* | 2023 - 2025 (Último Semestre)
-- Cursos destacados: Desarrollo Full Stack, Arquitectura de Software, Cloud Computing (AWS/GCP), DevOps, Testing Automatizado
+*Maestría en Ingeniería de Software MISO* | 2023 - 2025 (Último Semestre)
+- Cursos destacados: Desarrollo Full Stack, Arquitectura de Software, Cloud Computing (AWS/GCP), DevOps, Testing Automatizado.
+- **Proyectos de transición tecnológica**: Desarrollo de aplicaciones con React, Node.js, Python y Docker como parte del currículo académico
 
 **Universidad Santo Tomás de Aquino** | Bogotá, Colombia
 *Ingeniería Electrónica* | 2005 - 2010
-
-**Universidad Nacional de Colombia** | Bogotá, Colombia
-*Diplomado en Gestión Energética Avanzada* | 2013
-- Certificación ISO 50001 como auditor interno
 
 ---
 
 ### CERTIFICACIONES
 
-- **AWS Solutions Architect** - Associate (En progreso - 75% completado)
-- **SCRUM Fundamentals** (SFC) | 2024
-- **GeneXus Workflow BPM** - Certificado | 2023
-- **Docker** - Guía Práctica para Desarrolladores | 2023
-- **Airtable** - Bases de Datos NoCode | 2023
-- **Latam Architecture Day 2025** - Badge | 2025
+- **AWS Solutions Architect** - Associate (En progreso)
+- **SCRUM Fundamentals** (SFC)
+- **GeneXus Workflow BPM** - Certificado
+- **Docker** - Guía Práctica para Desarrolladores
+- **Airtable** - Bases de Datos NoCode
+- **Latam Architecture Day 2025** - Badge
 
 ---
 
 ### COMPETENCIAS TÉCNICAS
 
-**Lenguajes de Programación & Frameworks**
-- **Experto**: JavaScript, TypeScript, Python, Java, C#, SQL
-- **Avanzado**: Node.js, React, Angular, React Native, .NET
-- **Intermedio**: Spring Framework, Express.js, Flask
+**Tecnologías con Experiencia Profesional**
+- **Low-Code**: GeneXus (Versiones GX 8.0 a 18), compilando aplicaciones en Java, C# .NET, NetCore, BPM Suite, GXTest
+- **Backend**: C# .NET, Java, SQL Server, Oracle, MySQL
+- **Frontend**: HTML, CSS, JavaScript (básico), ASP.NET
+- **Integración**: SOAP, REST, APIs externas
+- **Cloud**: AWS EC2, RDS (despliegue básico)
 
-**Cloud & DevOps**
-- **Experto**: AWS (EC2, RDS, S3, Lambda), Docker, Git, CI/CD
-- **Avanzado**: Google Cloud Platform (GCP), Kubernetes, Jenkins, GitHub Actions
-- **Intermedio**: Azure, Terraform, Ansible, Infrastructure as Code
+**Tecnologías en Proceso de Aprendizaje (Maestría y Proyectos Personales)**
+- **Frontend Moderno**: React, Angular, TypeScript
+- **Backend Moderno**: Python (Flask, FastAPI)
+- **Cloud & DevOps**: AWS (EC2, RDS, S3, Lambda, API Gateway), Google Cloud Platform (GCP), Docker, Kubernetes
+- **Bases de Datos**: PostgreSQL, MongoDB, DynamoDB, Redis
+- **APIs**: REST, GraphQL, WebSockets, Microservicios
+- **Testing**: Jest, Pytest, Selenium, Cypress
 
-**Bases de Datos & Herramientas**
-- **Relacionales**: SQL Server, MySQL, Oracle, PostgreSQL
-- **NoSQL**: MongoDB, DynamoDB, Redis
-- **Low-Code**: GeneXus (GX 8.0 a 18), BPM Suite, GXTest
-- **Herramientas**: Airtable, Power Automate, n8n, Make
+**Arquitectura de Software**
+- Patrones arquitectónicos: MVC, Event-Driven Architecture
+- Diseño de APIs: REST, SOAP
+- Integración de sistemas: ESB, API Gateway, Message Queues
+- Calidad de software: Testing, Code Review, Clean Code
 
-**Arquitectura & Metodologías**
-- **Arquitectura**: Microservicios, MVC, Hexagonal, API REST/SOAP
-- **Agile**: SCRUM, TDD, BDD, DevOps
-- **Gestión**: BPM, SSO, ISO 50001
+**Metodologías & Prácticas**
+- Metodologías: DevOps, Agile, SCRUM, TDD, BDD
+- Gestión de proyectos: Liderazgo de equipos, definición de roadmaps, control de calidad
+
+**Inteligencia Artificial*
+- Modelos de lenguaje: Gemini, Claude, GPT (OpenAI), Mistral, Groq, Llama
+- Frameworks: LangChain, LlamaCloud, LlamaParse
+- Procesamiento: NLP, OCR, RAG, Hugging Face, LM Arena
+- Herramientas: Airtable, Power Automate, n8n, Make
 
 ---
 
@@ -127,7 +131,7 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 - Análisis de requerimientos de negocio y traducción a soluciones técnicas
 - Diseño de arquitecturas escalables y sistemas distribuidos
 - Optimización de procesos operativos y eficiencia energética
-- Implementación de soluciones de IA para automatización de procesos
+- Implementación de soluciones de automatización y cloud computing
 
 **Comunicación & Colaboración**
 - Trabajo en equipos multiculturales y multidisciplinarios
@@ -139,33 +143,20 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 
 ### PROYECTOS DESTACADOS
 
-**Sistema de Gestión Financiera con IA** | React, Python/Flask, PostgreSQL | 2023 - Presente
-- **Desafío**: Automatización de procesos de préstamos y créditos para entidad financiera
-- **Solución**: Aplicación web con dashboard interactivo y API REST integrando modelos de IA
-- **Tecnologías**: React, Python/Flask, PostgreSQL, GPT-4, LangChain
-- **Resultado**: Reducción del 60% en tiempo de procesamiento de solicitudes
-- **Métricas**: 99.9% disponibilidad, procesamiento de 500+ solicitudes diarias
-
-**App Móvil de Banca - React Native** | React Native, Node.js, JWT | 2022 - 2023
-- **Desafío**: Desarrollo de aplicación móvil para operaciones bancarias en tiempo real
-- **Solución**: App nativa con autenticación JWT y operaciones bancarias completas
-- **Tecnologías**: React Native, Node.js, JWT, SQL Server
-- **Resultado**: 10,000+ usuarios activos en 3 meses
-- **Métricas**: 4.8/5 rating en App Store, 99.5% uptime
-
-**API de Microservicios con Docker** | Docker, Kubernetes, Node.js | 2021 - 2022
-- **Desafío**: Sistema de microservicios para procesamiento de transacciones financieras
-- **Solución**: Arquitectura de microservicios containerizada con orquestación Kubernetes
-- **Tecnologías**: Docker, Kubernetes, Node.js, MongoDB, Redis
-- **Resultado**: 99.9% de disponibilidad, reducción de latencia en 30%
-- **Métricas**: 1000+ transacciones por segundo, latencia <50ms
-
-**Sistema IDP - Single Sign-On** | Java, Spring, OAuth2 | 2021 - 2022
-- **Desafío**: Unificar acceso a múltiples aplicaciones misionales de la organización
-- **Solución**: Sistema de identidad federada con integración de Directorio Activo y CRM
-- **Tecnologías**: Java, Spring Security, OAuth2, SAML, LDAP
+**Sistema IDP - Single Sign-On** | 2021 - 2022
+- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada
+- Junto a un equipo interdisciplinario de productos, integramos múltiples sistemas mediante bus de orquestación de APIs
 - **Resultado**: Implementación exitosa de SSO entre aplicaciones misionales
-- **Métricas**: Integración completa de 15+ aplicaciones, reducción de tiempo de acceso en 70%
+
+**Migración Core Industrial** | 2020 - 2023
+- Lideré equipo de 10 personas en migración de aplicaciones core
+- Integré servicios de transporte y logística con sistemas de inventario
+- **Resultado**: Migración exitosa sin interrupciones del servicio
+
+**Aplicación Móvil para Fuerza Comercial Financiera** | 2019 - 2021
+- Desarrollé y mantuve aplicación web y móvil (iOS/Android) para entidad mixta financiera y de seguros, integré Core SAP mediante servicios SOAP y CRM mediante servicios REST para consultas de cupos y seguros de créditos
+- Implementé dashboard interactivo con reportes en tiempo real y API REST para acceso ágil a información comercial
+- **Resultado**: Mejora significativa en la calidad y eficiencia del servicio al cliente, reduciendo tiempo de respuesta en consultas comerciales
 
 ---
 
@@ -179,12 +170,12 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 ### REFERENCIAS
 
 **Laborales**
-- Alba Marin | Account Manager | Accion Point | 313 835 6736
+- Justo Jimenez | Help Desk Analyst | Accion Point | 312 384 9479
 - Eder Alvarez | Líder de Desarrollo | Accion Point | 301 311 9198
 
 **Personales**
-- Maria Scoth | Ing. de Análisis y Diseño Master | 302 284 5583
-- Justo Jimenez | Help Desk Analyst | 312 384 9479
+- Maria Scoth | Ing. Esp. Análisis y Diseño de Software | 302 284 5583
+- Alba Marin | Account Manager | 313 835 6736
 
 ---
 
