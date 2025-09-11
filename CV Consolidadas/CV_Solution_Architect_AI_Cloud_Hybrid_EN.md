@@ -3,11 +3,12 @@
 
 ### CONTACT INFORMATION
 
-- 📞 Phone: 320 858 7713
-- ✉️ Email: jcesarforero@gmail.com
-- 🏠 Location: Bogotá, Colombia
-- 🔗 LinkedIn: https://www.linkedin.com/in/juliocesarforero/
-- 🐙 GitHub: https://github.com/JulioCesarForero
+- Phone: 320 858 7713
+- Email: jcesarforero@gmail.com
+- Location: Bogotá, Colombia
+- LinkedIn: https://www.linkedin.com/in/juliocesarforero/
+- GitHub: https://github.com/JulioCesarForero
+
 
 ---
 
