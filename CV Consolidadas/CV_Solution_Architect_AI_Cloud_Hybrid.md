@@ -115,11 +115,20 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 - **En Aprendizaje**: Python (Flask, FastAPI), JavaScript, TypeScript, Node.js, Go, Rust, Scala
 - **Low-Code**: GeneXus (Versiones GX 8.0 a 18), compilando aplicaciones en Java, C# .NET, NetCore, BPM Suite, GXTest
 
+**Testing & Aseguramiento de Calidad**
+- **Testing Frontend**: Cypress (automatización E2E), Jest (pruebas unitarias), Selenium (automatización de navegadores)
+- **Testing Backend**: Postman (testing de APIs), JMeter (pruebas de rendimiento), Pytest
+- **Testing de Arquitectura**: Pruebas de carga, validación de rendimiento, testing de integración
+- **Prácticas de Calidad**: TDD, BDD, pipelines de testing automatizado
+
 **Bases de Datos & Herramientas**
 - **Relacionales**: SQL Server, MySQL, Oracle, PostgreSQL
 - **En Aprendizaje**: MongoDB, DynamoDB, Redis, Cassandra
 - **Vectoriales**: Pinecone, Weaviate, Chroma, FAISS
-- **Herramientas**: Airtable, Power Automate, n8n, Make
+- **Herramientas de IA**: Airtable, Power Automate, n8n, Make
+- **Gestión de Proyectos**: Jira, Microsoft Project, tableros Kanban
+- **Colaboración**: Suite Microsoft Office (Word, Excel, PowerPoint), Miro, Figma
+- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica)
 
 ---
 
@@ -138,23 +147,27 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 - Implementación de soluciones de IA para automatización de procesos complejos
 
 **Comunicación & Colaboración**
-- Presentaciones técnicas sobre arquitectura de soluciones a stakeholders
-- Documentación técnica de arquitecturas y patrones de diseño
-- Capacitación de usuarios finales en sistemas implementados
-- Trabajo en equipos multiculturales y multidisciplinarios
+- Presentaciones técnicas sobre arquitectura de soluciones a stakeholders usando PowerPoint y Miro
+- Documentación técnica de arquitecturas y patrones de diseño con Microsoft Word y GitHub Wiki
+- Capacitación de usuarios finales en sistemas implementados con materiales estructurados
+- Trabajo en equipos multiculturales y multidisciplinarios usando herramientas colaborativas
+- Coordinación de equipos multifuncionales usando flujos de trabajo de Jira y metodologías Kanban
+- Colaboración en diseño y wireframing con Figma para visualización de soluciones
 
 ---
 
 ### PROYECTOS DESTACADOS
 
 **Sistema IDP - Single Sign-On** | 2021 - 2022
-- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada
+- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada usando Jira para gestión de sprints y seguimiento de tareas
 - Junto a un equipo interdisciplinario de productos, integramos múltiples sistemas mediante bus de orquestación de APIs
+- Coordiné sesiones de diseño de arquitectura usando Miro para planificación colaborativa y Figma para wireframes de solución
 - **Resultado**: Implementación exitosa de SSO entre aplicaciones misionales
 
 **Migración Core Industrial** | 2020 - 2023
-- Lideré equipo de 10 personas en migración de aplicaciones core
+- Lideré equipo de 10 personas en migración de aplicaciones core usando gestión estructurada de proyectos con Jira
 - Integré servicios de transporte y logística con sistemas de inventario
+- Gestioné roadmap complejo de arquitectura y entregables usando Microsoft Project y seguimiento en Excel
 - **Resultado**: Migración exitosa sin interrupciones del servicio
 
 **Aplicación Móvil para Fuerza Comercial Financiera** | 2019 - 2021

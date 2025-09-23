@@ -99,7 +99,7 @@ Full Stack Developer with over 10 years of experience in software development an
 - **Cloud & DevOps**: AWS (EC2, RDS, S3, Lambda, API Gateway), Google Cloud Platform (GCP), Docker, Kubernetes
 - **Databases**: PostgreSQL, MongoDB, DynamoDB, Redis
 - **APIs**: REST, GraphQL, WebSockets, Microservices
-- **Testing**: Jest, Pytest, Selenium, Cypress
+- **Testing**: Jest, Pytest, Selenium, Cypress (E2E automation)
 
 **Software Architecture**
 - Architectural patterns: MVC, Event-Driven Architecture
@@ -107,9 +107,17 @@ Full Stack Developer with over 10 years of experience in software development an
 - System integration: ESB, API Gateway, Message Queues
 - Software quality: Testing, Code Review, Clean Code
 
+**Testing & Quality Assurance**
+- **Frontend Testing**: Cypress (E2E automation), Jest (unit testing), Selenium (browser automation)
+- **Backend Testing**: Postman (API testing), JMeter (performance testing), Pytest
+- **Quality Practices**: TDD, BDD, automated testing pipelines
+
 **Methodologies & Practices**
-- Methodologies: DevOps, Agile, SCRUM, TDD, BDD
-- Project management: Team leadership, roadmap definition, quality control
+- **Agile Methodologies**: DevOps, Agile, SCRUM, TDD, BDD
+- **Project Management**: Team leadership, roadmap definition, quality control, sprint planning
+- **Project Management Tools**: Jira (task tracking, sprint management), Kanban boards, Microsoft Project
+- **Collaboration Tools**: Microsoft Office Suite (Word, Excel, PowerPoint), Miro (brainstorming, workshops), Figma (design collaboration)
+- **Documentation**: GitHub Projects (project tracking), GitHub Wiki (technical documentation)
 
 **Artificial Intelligence**
 - Language models: Gemini, Claude, GPT (OpenAI), Mistral, Groq, Llama
@@ -134,23 +142,26 @@ Full Stack Developer with over 10 years of experience in software development an
 - Implementation of automation and cloud computing solutions
 
 **Communication & Collaboration**
-- Work in multicultural and multidisciplinary teams
-- Technical presentations to stakeholders and clients
-- Technical documentation and user manuals
-- End-user training in implemented systems
+- Work in multicultural and multidisciplinary teams using collaborative tools
+- Technical presentations to stakeholders and clients using PowerPoint and Miro
+- Technical documentation and user manuals with Microsoft Word, GitHub Wiki, and collaborative platforms
+- End-user training in implemented systems with structured materials
+- Cross-functional team coordination using Jira workflows and Kanban methodologies
 
 ---
 
 ### KEY PROJECTS
 
 **IDP System - Single Sign-On** | 2021 - 2022
-- Led team of 7 people in developing federated identity application
+- Led team of 7 people in developing federated identity application using Jira for sprint management and task tracking
 - Together with an interdisciplinary product team, integrated multiple systems through API orchestration bus
+- Coordinated project workflows using Kanban boards and regular sprint reviews
 - **Result**: Successful SSO implementation between mission-critical applications
 
 **Industrial Core Migration** | 2020 - 2023
-- Led team of 10 people in core application migration
+- Led team of 10 people in core application migration using structured project management with Jira
 - Integrated transportation and logistics services with inventory systems
+- Managed complex project timeline and deliverables using Microsoft Project and Excel tracking
 - **Result**: Successful migration without service interruptions
 
 **Financial Commercial Force Mobile Application** | 2019 - 2021

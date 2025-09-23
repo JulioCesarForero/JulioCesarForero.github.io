@@ -116,11 +116,20 @@ Solution Architect with over 10 years of experience in designing and implementin
 - **In Learning**: Python (Flask, FastAPI), JavaScript, TypeScript, Node.js, Go, Rust, Scala
 - **Low-Code**: GeneXus (Versions GX 8.0 to 18), compiling applications in Java, C# .NET, NetCore, BPM Suite, GXTest
 
+**Testing & Quality Assurance**
+- **Frontend Testing**: Cypress (E2E automation), Jest (unit testing), Selenium (browser automation)
+- **Backend Testing**: Postman (API testing), JMeter (performance testing), Pytest
+- **Architecture Testing**: Load testing, performance validation, integration testing
+- **Quality Practices**: TDD, BDD, automated testing pipelines
+
 **Databases & Tools**
 - **Relational**: SQL Server, MySQL, Oracle, PostgreSQL
 - **In Learning**: MongoDB, DynamoDB, Redis, Cassandra
 - **Vector**: Pinecone, Weaviate, Chroma, FAISS
-- **Tools**: Airtable, Power Automate, n8n, Make
+- **AI Tools**: Airtable, Power Automate, n8n, Make
+- **Project Management**: Jira, Microsoft Project, Kanban boards
+- **Collaboration**: Microsoft Office Suite (Word, Excel, PowerPoint), Miro, Figma
+- **Documentation**: GitHub Projects (project tracking), GitHub Wiki (technical documentation)
 
 ---
 
@@ -139,23 +148,27 @@ Solution Architect with over 10 years of experience in designing and implementin
 - Implementation of AI solutions for complex process automation
 
 **Communication & Collaboration**
-- Technical presentations on solution architecture to stakeholders
-- Technical documentation of architectures and design patterns
-- End-user training in implemented systems
-- Work in multicultural and multidisciplinary teams
+- Technical presentations on solution architecture to stakeholders using PowerPoint and Miro
+- Technical documentation of architectures and design patterns with Microsoft Word and GitHub Wiki
+- End-user training in implemented systems with structured materials
+- Work in multicultural and multidisciplinary teams using collaborative tools
+- Cross-functional team coordination using Jira workflows and Kanban methodologies
+- Design collaboration and wireframing with Figma for solution visualization
 
 ---
 
 ### KEY PROJECTS
 
 **IDP System - Single Sign-On** | 2021 - 2022
-- Led team of 7 people in developing federated identity application
+- Led team of 7 people in developing federated identity application using Jira for sprint management and task tracking
 - Together with an interdisciplinary product team, integrated multiple systems through API orchestration bus
+- Coordinated architecture design sessions using Miro for collaborative planning and Figma for solution wireframes
 - **Result**: Successful SSO implementation between mission-critical applications
 
 **Industrial Core Migration** | 2020 - 2023
-- Led team of 10 people in core application migration
+- Led team of 10 people in core application migration using structured project management with Jira
 - Integrated transportation and logistics services with inventory systems
+- Managed complex architecture roadmap and deliverables using Microsoft Project and Excel tracking
 - **Result**: Successful migration without service interruptions
 
 **Financial Commercial Force Mobile Application** | 2019 - 2021

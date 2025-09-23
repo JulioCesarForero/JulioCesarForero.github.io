@@ -99,18 +99,26 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 - **Cloud & DevOps**: AWS (EC2, RDS, S3, Lambda, API Gateway), Google Cloud Platform (GCP), Docker, Kubernetes
 - **Bases de Datos**: PostgreSQL, MongoDB, DynamoDB, Redis
 - **APIs**: REST, GraphQL, WebSockets, Microservicios
-- **Testing**: Jest, Pytest, Selenium, Cypress
+- **Testing**: Jest, Pytest, Selenium, Cypress (automatización E2E)
 
 **Containerización & Orquestación (En Aprendizaje)**
 - **Docker**: Containerización, Docker Compose, Multi-stage builds
 - **Kubernetes**: Orquestación, Helm, Ingress, Services
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
 
-**Metodologías & Prácticas**
-- Metodologías: DevOps, Agile, SCRUM, TDD, BDD
-- Gestión de proyectos: Liderazgo de equipos, definición de roadmaps, control de calidad
+**Testing & Aseguramiento de Calidad**
+- **Testing Frontend**: Cypress (automatización E2E), Jest (pruebas unitarias), Selenium (automatización de navegadores)
+- **Testing Backend**: Postman (testing de APIs), JMeter (pruebas de rendimiento), Pytest
+- **Prácticas de Calidad**: TDD, BDD, pipelines de testing automatizado
 
-**Inteligencia Artificial*
+**Metodologías & Prácticas**
+- **Metodologías Ágiles**: DevOps, Agile, SCRUM, TDD, BDD
+- **Gestión de Proyectos**: Liderazgo de equipos, definición de roadmaps, control de calidad, planificación de sprints
+- **Herramientas de Gestión**: Jira (seguimiento de tareas, gestión de sprints), tableros Kanban, Microsoft Project
+- **Herramientas de Colaboración**: Suite Microsoft Office (Word, Excel, PowerPoint), Miro (lluvia de ideas, talleres), Figma (colaboración en diseño)
+- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica)
+
+**Inteligencia Artificial**
 - Modelos de lenguaje: Gemini, Claude, GPT (OpenAI), Mistral, Groq, Llama
 - Frameworks: LangChain, LlamaCloud, LlamaParse
 - Procesamiento: NLP, OCR, RAG, Hugging Face, LM Arena
@@ -133,23 +141,26 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 - Implementación de soluciones de automatización y cloud computing
 
 **Comunicación & Colaboración**
-- Trabajo en equipos multiculturales y multidisciplinarios
-- Presentaciones técnicas a stakeholders y clientes
-- Documentación técnica y manuales de usuario
-- Capacitación de usuarios finales en sistemas implementados
+- Trabajo en equipos multiculturales y multidisciplinarios usando herramientas colaborativas
+- Presentaciones técnicas a stakeholders y clientes usando PowerPoint y Miro
+- Documentación técnica y manuales de usuario con Microsoft Word, GitHub Wiki y plataformas colaborativas
+- Capacitación de usuarios finales en sistemas implementados con materiales estructurados
+- Coordinación de equipos multifuncionales usando flujos de trabajo de Jira y metodologías Kanban
 
 ---
 
 ### PROYECTOS DESTACADOS
 
 **Sistema IDP - Single Sign-On** | 2021 - 2022
-- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada
+- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada usando Jira para gestión de sprints y seguimiento de tareas
 - Junto a un equipo interdisciplinario de productos, integramos múltiples sistemas mediante bus de orquestación de APIs
+- Coordiné flujos de trabajo del proyecto usando tableros Kanban y revisiones regulares de sprint
 - **Resultado**: Implementación exitosa de SSO entre aplicaciones misionales
 
 **Migración Core Industrial** | 2020 - 2023
-- Lideré equipo de 10 personas en migración de aplicaciones core
+- Lideré equipo de 10 personas en migración de aplicaciones core usando gestión estructurada de proyectos con Jira
 - Integré servicios de transporte y logística con sistemas de inventario
+- Gestioné cronograma complejo del proyecto y entregables usando Microsoft Project y seguimiento en Excel
 - **Resultado**: Migración exitosa sin interrupciones del servicio
 
 **Aplicación Móvil para Fuerza Comercial Financiera** | 2019 - 2021
