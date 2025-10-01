@@ -87,10 +87,11 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 ### COMPETENCIAS TÉCNICAS
 
 **Arquitectura de Software (Experiencia Profesional)**
-- **Patrones arquitectónicos**: MVC, Event-Driven Architecture
+- **Patrones arquitectónicos**: MVC, Event-Driven Architecture, MVVC
 - **Diseño de APIs**: REST, SOAP
-- **Integración de sistemas**: ESB, API Gateway, Message Queues
+- **Integración de sistemas**: API Gateway, Message Queues
 - **Calidad de software**: Testing, Code Review, Clean Code
+- **Testing**: Jest, Pytest, Selenium, Cypress (automatización E2E)
 
 **Tecnologías en Proceso de Aprendizaje (Maestría y Proyectos Personales)**
 - **Arquitectura Cloud**: AWS, Google Cloud Platform (GCP), Multi-cloud
@@ -104,31 +105,31 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 - **Procesamiento**: NLP, OCR, RAG, LM Arena, Transformers
 - **Arquitectura de IA**: MLOps, Model Serving, A/B Testing, Model Monitoring
 
-**Cloud & DevOps (En Aprendizaje)**
-- **Plataformas**: AWS (SageMaker, Lambda, EC2, RDS, S3), GCP (Vertex AI, AutoML)
-- **Contenedores**: Docker, Kubernetes, Helm, Istio
+**Cloud & DevOps**
+- **Plataformas**: AWS (EKS, Lambda, EC2, RDS, S3), GCP (Vertex AI, AutoML)
+- **Contenedores**: Docker, Kubernetes
 - **CI/CD**: Jenkins, Git, GitHub Actions, GitLab CI
 - **Infraestructura**: Terraform, Ansible, Infrastructure as Code
 
 **Lenguajes de Programación & Frameworks**
 
-- **En Aprendizaje**: Python (Flask, FastAPI), JavaScript, TypeScript, Node.js, Go, Rust, Scala
-- **Low-Code**: GeneXus (Versiones GX 8.0 a 18), compilando aplicaciones en Java, C# .NET, NetCore, BPM Suite, GXTest
+- **En Aprendizaje**: Python (Flask, FastAPI), JavaScript, TypeScript, React EXPO.
+- **Low-Code**: GeneXus , RAD Systems.
 
 **Testing & Aseguramiento de Calidad**
-- **Testing Frontend**: Cypress (automatización E2E), Jest (pruebas unitarias), Selenium (automatización de navegadores)
-- **Testing Backend**: Postman (testing de APIs), JMeter (pruebas de rendimiento), Pytest
+- **Testing Frontend**: Cypress (automatización E2E), Selenium (automatización de navegadores)
+- **Testing Backend**: Postman (testing de APIs), JMeter (pruebas de rendimiento), Pytest, Cucumber.
 - **Testing de Arquitectura**: Pruebas de carga, validación de rendimiento, testing de integración
 - **Prácticas de Calidad**: TDD, BDD, pipelines de testing automatizado
 
 **Bases de Datos & Herramientas**
 - **Relacionales**: SQL Server, MySQL, Oracle, PostgreSQL
-- **En Aprendizaje**: MongoDB, DynamoDB, Redis, Cassandra
-- **Vectoriales**: Pinecone, Weaviate, Chroma, FAISS
+- **En Aprendizaje**: MongoDB, DynamoDB, Redis.
+- **Vectoriales**: Pinecone
 - **Herramientas de IA**: Airtable, Power Automate, n8n, Make
-- **Gestión de Proyectos**: Jira, Microsoft Project, tableros Kanban
+- **Gestión de Proyectos**: Jira, Microsoft Project, tableros Kanban, Github Projects.
 - **Colaboración**: Suite Microsoft Office (Word, Excel, PowerPoint), Miro, Figma
-- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica)
+- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica), mermaid, gerkin.
 
 ---
 

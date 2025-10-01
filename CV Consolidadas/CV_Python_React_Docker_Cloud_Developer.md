@@ -88,8 +88,8 @@ Desarrollador Full Stack con más de 10 años de experiencia en desarrollo de so
 
 **Tecnologías con Experiencia Profesional**
 - **Low-Code**: GeneXus (Versiones GX 8.0 a 18), compilando aplicaciones en Java, C# .NET, NetCore, BPM Suite, GXTest
-- **Backend**: C# .NET, Java, SQL Server, Oracle, MySQL
-- **Frontend**: HTML, CSS, JavaScript (básico), ASP.NET
+- **Backend**: Python, SQL Server, Oracle, MySQL
+- **Frontend**: HTML, CSS, JavaScript.
 - **Integración**: SOAP, REST, APIs externas
 - **Cloud**: AWS EC2, RDS (despliegue básico)
 
