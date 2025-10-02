@@ -13,7 +13,7 @@
 
 ### RESUMEN PROFESIONAL
 
-Solution Architect con más de 10 años de experiencia en diseño e implementación de soluciones empresariales que combinan Inteligencia Artificial y Cloud Computing. Especializado en arquitectura de software, metodologías ágiles y transformación digital. Experiencia comprobada en liderazgo técnico de equipos multidisciplinarios y diseño de arquitecturas híbridas que han generado mejoras del 25-60% en eficiencia operativa. Actualmente en proceso de profundización en tecnologías modernas como microservicios, cloud computing avanzado y arquitecturas de IA gracias a la Maestría en Ingeniería de Software y proyectos personales.
+Arquitecto de Software con más de 10 años de experiencia en diseño e implementación de soluciones empresariales que combinan Inteligencia Artificial y Cloud Computing. Con experiencia en marcos arquitectónicos y framworks como (TOGAF, C4 Model), patrones de diseño de APIs, REST, microservicios y metodologías ágiles. Experiencia comprobada en liderazgo técnico de equipos multidisciplinarios y diseño de arquitecturas escalables que han generado mejoras del 25-60% en eficiencia operativa. Experiencia en documentación técnica con UML, metodologías AS-IS/TO-BE y artefactos arquitectónicos para vistas y puntos de vista, ASR. Actualmente en proceso de profundización en tecnologías modernas como microservicios hexagonales y kubernetes, cloud computing avanzado y arquitecturas de IA gracias a la Maestría en Ingeniería de Software.
 
 ---
 
@@ -22,27 +22,27 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 **Accion Point - Toolnology Colombia** | Bogotá, Colombia
 *Especialista en LowCode Inteligencia Artificial y Preventa* | 2023 - 2025
 
-- **Diseño de Soluciones con IA**: Diseñé e implementé soluciones basadas en IA, incluyendo GPT, LLM, RAG, NLP y OCR para automatización de procesos para diversas industrias de Seguros, Marroquinería, logística y transporte, legal
-- **Optimización de Procesos**: Implementé asistentes de IA que redujeron el tiempo de procesamiento de tareas hasta en un **60%** mediante automatizaciones e integraciones de diferentes servicios y proveedores
-- **Desarrollo de Chatbots**: Creé chatbots conversacionales con GPT, RAG, API Chat, que incrementaron la satisfacción y eficiencia de usuarios en sus tareas
-- **Liderazgo Técnico**: Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes IA, LowCode, Automatización de Procesos y metodologías de desarrollo ágil y DevOps
+- **Arquitectura de Soluciones con IA**: Diseñé e implementé arquitecturas de soluciones basadas en IA utilizando GPT, LLM, RAG, NLP y OCR para automatización de procesos en industrias de Seguros, Marroquinería, logística y transporte, legal
+- **Diseño de APIs y Microservicios**: Implementé arquitecturas de microservicios con APIs REST y asistentes de IA que redujeron el tiempo de procesamiento de tareas hasta en un **60%** mediante automatizaciones e integraciones de diferentes servicios y proveedores
+- **Arquitectura de Chatbots**: Diseñé y documenté arquitecturas de chatbots conversacionales con GPT, RAG, API Chat, utilizando diagramas y documentación técnica que incrementaron la satisfacción y eficiencia de clientes y prospectos a quienes se les presentaba la solucion. 
+- **Liderazgo Técnico en Arquitectura**: Lideré capacitaciones y charlas técnicas sobre tecnologías emergentes de IA, LowCode, Automatización de Procesos y metodologías de desarrollo ágil y DevOps
 
 **Accion Point** | Bogotá, Colombia
 *Desarrollador Senior - Líder Técnico en Desarrollo de Software LowCode* | 2017 - 2023
 
-- **Sistema IDP - Single Sign-On**: Lideré y desarrollé, junto a un equipo de siete personas (desarrolladores, testers, PM y Tech Lead), la aplicación IDP, integrando el Directorio Activo, el CRM y otras aplicaciones de terceros mediante un bus de orquestación de APIs, garantizando el inicio de sesión único (SSO) entre las aplicaciones misionales de la organización financiera Público/privada con presencia a nivel nacional
+- **Arquitectura IDP - Single Sign-On**: Lideré el diseño arquitectónico y desarrollo de la aplicación IDP utilizando el modelo C4 para la documentación, integrando el Directorio Activo, CRM y aplicaciones de terceros mediante un bus de orquestación de APIs REST, garantizando SSO entre aplicaciones misionales de organización financiera con presencia nacional.
 
-- **Migración de Core de Industria Gráfica**: Lideré y desarrollé junto a un equipo de diez personas la migración y evolución de 2 aplicaciones del core de industria gráfica y proveedores de suministros, integrando servicios de transporte y logística al sistema de bodega, inventario y despacho de pedidos
+- **Arquitectura de Migración Core Industrial**: Lideré el diseño arquitectónico y migración de 2 aplicaciones core de industria gráfica utilizando metodologías AS-IS/TO-BE, integrando servicios de transporte y logística mediante APIs REST al sistema de bodega, inventario y despacho de pedidos.
 
-- **Aplicación de Gestión de Presupuestos**: Creé aplicación web para gestión de presupuestos anuales para entidad de las fuerzas armadas, integrando el CRM a la aplicación con arquitectura MVC, C#, SQL Server
+- **Arquitectura de Aplicación de Presupuestos**: Diseñé y desarrollé arquitectura MVC para aplicación web de gestión de presupuestos anuales para entidad de fuerzas armadas, integrando CRM mediante APIs REST con C#, SQL Server
 
-- **Sistema de Validación Financiera**: Implementé validación de listas negras, generación de reportes y procesos de integración y validación para transacciones con tarjeta débito en sector financiero utilizando core bancario Bantotal con tecnología LowCode Oracle y Java
+- **Arquitectura de Validación Financiera**: Implementé arquitectura de validación de listas negras y generación de reportes para transacciones con tarjeta débito en sector financiero, integrando core bancario Bantotal con tecnología LowCode Oracle y Java
 
-- **Optimización de Procesos BPM**: Optimicé procesos de auditoría y ejecución de scripts para empresa de retail a distintos motores de bases de datos mediante solución BPM, reduciendo tiempos de respuesta y gestión operacional en 35%
+- **Arquitectura de Procesos BPM**: Diseñé optimización de procesos de auditoría usando BPMN y ejecución de scripts para empresa de retail mediante solución BPM con múltiples motores de bases de datos, reduciendo tiempos de respuesta y gestión operacional en más de 35%.
 
-- **Aplicación Web y Mobile para Entidad Financiera**: Mantuve y evolucioné aplicación Web y Mobile (iOS Android) para entidad mixta financiera y de seguros, integrando Core SAP mediante servicios SOAP y CRM mediante servicios REST, permitiendo consultas de cupos y seguros de créditos para entidades financieras
+- **Arquitectura de Aplicación Financiera Multiplataforma**: Implementé y mantuve arquitectura de aplicación Web y Mobile (iOS/Android) para entidad mixta financiera y de seguros, integrando Core SAP mediante servicios SOAP y CRM mediante servicios REST para consultas de cupos y seguros de créditos
 
-- **Sistema de Gestión Catastral**: Participé en el desarrollo y refactorización del sistema de gestión catastral para Catastro de Salta Argentina, implementando gestión de pases para procesos catastrales con identificación única de inmuebles y la integración con pasarela de pagos de Mercado Pago
+- **Arquitectura de Sistema Catastral**: Participé en el diseño arquitectónico y refactorización del sistema de gestión catastral para Catastro de Salta Argentina, implementando gestión de pases para procesos catastrales con identificación única de inmuebles e integración con pasarela de pagos de Mercado Pago
 
 **Greenggers** | Bogotá, Colombia
 *Ingeniero Analista de Software GX LowCode* | 2016 - 2017
@@ -51,13 +51,13 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 
 - **Arquitectura MVC con Servicios REST**: Implementé arquitectura MVC con servicios REST para la comunicación entre módulos, utilizando SQL Server y C# .NET
 
-- **Desarrollo de Servicios Móviles**: Desarrollé la capa de servicios móviles y módulos de gestión de inventarios para medicamentos en clínicas veterinarias
+- **Desarrollo de Servicios Móviles**: Desarrollé la capa de servicios móviles y módulos de gestión de inventarios para medicamentos en clínicas veterinarias.
 
-- **Integración de APIs Externas**: Integré APIs externas como Google Maps, envío de SMS y correo electrónico para funcionalidades de localización y comunicación
+- **Integración de APIs Externas**: Integré APIs externas como Google Maps, envío de SMS y correo electrónico para funcionalidades de localización y comunicación.
 
-- **Aplicación MVP de Gestión Médica**: Desarrollé completamente desde cero una aplicación (MVP) para gestión de médicos y rutas médicas, conectando médicos y pacientes
+- **Aplicación MVP de Gestión Médica**: Desarrollé completamente desde cero una aplicación (MVP) para gestión de médicos y rutas médicas, conectando médicos y pacientes.
 
-- **Despliegue Cloud**: Participé en el despliegue exitoso de los productos en ambientes de producción cloud EC2 y RDS, logrando implementación en clínicas a nivel nacional
+- **Despliegue Cloud**: Participé en el despliegue exitoso de los productos en ambientes de producción cloud EC2 y RDS, logrando implementación en clínicas a nivel nacional.
 
 ---
 
@@ -87,10 +87,12 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 ### COMPETENCIAS TÉCNICAS
 
 **Arquitectura de Software (Experiencia Profesional)**
-- **Patrones arquitectónicos**: MVC, Event-Driven Architecture, MVVC
-- **Diseño de APIs**: REST, SOAP
-- **Integración de sistemas**: API Gateway, Message Queues
-- **Calidad de software**: Testing, Code Review, Clean Code
+- **Marcos y frameworks Arquitectónicos**: TOGAF, C4 Model, UML
+- **Patrones arquitectónicos**: MVC, Event-Driven Architecture, MVVC, Microservicios
+- **Diseño de APIs**: REST, SOAP, GraphQL, API Gateway
+- **Integración de sistemas**: Message Queues, Event Streaming, Service Mesh
+- **Metodologías de Diseño**: AS-IS/TO-BE, Artefactos Arquitectónicos, Catálogos de Aplicaciones
+- **Calidad de software**: Testing, Code Review, Clean Code, SonarCloud
 - **Testing**: Jest, Pytest, Selenium, Cypress (automatización E2E)
 
 **Tecnologías en Proceso de Aprendizaje (Maestría y Proyectos Personales)**
@@ -100,7 +102,7 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 - **Integración**: API Gateway, Service Mesh, Event Streaming, Message Queues
 
 **Inteligencia Artificial & Machine Learning**
-- **Modelos de Lenguaje**: GPT-4, Claude, Gemini, Mistral, Groq, Llama, LLaMA
+- **Modelos de Lenguaje**: GPT-4, Claude, Gemini, Mistral, Groq, Llama.
 - **Frameworks**: LangChain, LlamaCloud, LlamaParse, PyTorch, Hugging Face
 - **Procesamiento**: NLP, OCR, RAG, LM Arena, Transformers
 - **Arquitectura de IA**: MLOps, Model Serving, A/B Testing, Model Monitoring
@@ -129,7 +131,18 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 - **Herramientas de IA**: Airtable, Power Automate, n8n, Make
 - **Gestión de Proyectos**: Jira, Microsoft Project, tableros Kanban, Github Projects.
 - **Colaboración**: Suite Microsoft Office (Word, Excel, PowerPoint), Miro, Figma
-- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica), mermaid, gerkin.
+- **Documentación**: GitHub Projects (seguimiento de proyectos), GitHub Wiki (documentación técnica), mermaid, gerkin, Lucidchard, Draw.io.
+
+---
+
+### ARQUITECTURA DE SOFTWARE
+
+**Aplicación de marcos y modelos de referencia (TOGAF, 4+1 Views, C4 Model)** para estructurar arquitecturas empresariales y de sistemas.
+**Elaboración de artefactos arquitectónicos**: diagramas de contexto, componentes, despliegue, información y concurrencia; documentación de decisiones (ADRs) y catálogos de aplicaciones.
+**Uso de patrones y estilos arquitectónicos (Microservicios, Arquitecturas Orientadas a Eventos, API Gateway, Service Mesh, MVC)** para diseñar soluciones escalables, seguras y de alta disponibilidad.
+**Diseño de procesos de evolución arquitectónica (AS-IS/TO-BE)** y análisis de trade-offs de calidad (desempeño, seguridad, disponibilidad, escalabilidad).
+**Implementación de experimentos de arquitectura** para validar hipótesis asociadas a requisitos significativos (ASRs), aplicando pruebas de desempeño, latencia, resiliencia y seguridad.
+**Integración de metodologías ágiles en el diseño arquitectónico**: documentación iterativa e incremental, experimentación con escenarios de calidad y priorización de requisitos de negocio.
 
 ---
 
@@ -159,21 +172,21 @@ Solution Architect con más de 10 años de experiencia en diseño e implementaci
 
 ### PROYECTOS DESTACADOS
 
-**Sistema IDP - Single Sign-On** | 2021 - 2022
-- Lideré equipo de 7 personas en el desarrollo de aplicación de identidad federada usando Jira para gestión de sprints y seguimiento de tareas
-- Junto a un equipo interdisciplinario de productos, integramos múltiples sistemas mediante bus de orquestación de APIs
-- Coordiné sesiones de diseño de arquitectura usando Miro para planificación colaborativa y Figma para wireframes de solución
-- **Resultado**: Implementación exitosa de SSO entre aplicaciones misionales
+**Arquitectura IDP - Single Sign-On** | 2021 - 2022
+- Lideré diseño arquitectónico de aplicación de identidad federada utilizando metodologías agile y marco C4 Model con equipo de 7 personas
+- Participacion en el Diseño del bus de orquestación de APIs REST para integración de múltiples sistemas (Directorio Activo, CRM, aplicaciones de terceros)
+- Coordiné sesiones de diseño de arquitectura usando Miro para planificación colaborativa y documentación técnica con UML y modelos C4.
+- **Resultado**: Implementación exitosa de SSO entre aplicaciones misionales con arquitectura escalable y documentada.
 
-**Migración Core Industrial** | 2020 - 2023
-- Lideré equipo de 10 personas en migración de aplicaciones core usando gestión estructurada de proyectos con Jira
-- Integré servicios de transporte y logística con sistemas de inventario
-- Gestioné roadmap complejo de arquitectura y entregables usando Microsoft Project y seguimiento en Excel
-- **Resultado**: Migración exitosa sin interrupciones del servicio
+**Arquitectura de Migración Core Industrial** | 2020 - 2023
+- Lideré diseño arquitectónico de migración de aplicaciones core utilizando metodologías AS-IS/TO-BE con equipo de 10 personas
+- Diseñé arquitectura de integración de servicios de transporte y logística con sistemas de inventario mediante APIs REST
+- Gestioné roadmap de arquitectura y entregables usando Microsoft Project con documentación técnica C4.
+- **Resultado**: Migración exitosa sin interrupciones del servicio con arquitectura documentada.
 
-**Aplicación Móvil para Fuerza Comercial Financiera** | 2019 - 2021
-- Desarrollé y mantuve aplicación web y móvil (iOS/Android) para entidad mixta financiera y de seguros
-- Integré Core SAP mediante servicios SOAP y CRM mediante servicios REST para consultas de cupos y seguros de créditos
+**Arquitectura de Aplicación Financiera Multiplataforma** | 2019 - 2021
+- Participacion en el diseño y mantenimiento de arquitectura de aplicación web y móvil (iOS/Android) para entidad mixta financiera y de seguros.
+- Realicé la integración de Core SAP mediante servicios SOAP y CRM mediante servicios REST para consultas de cupos y seguros
 - Implementé dashboard interactivo con reportes en tiempo real y API REST para acceso ágil a información comercial
 - **Resultado**: Mejora significativa en la calidad y eficiencia del servicio al cliente, reduciendo tiempo de respuesta en consultas comerciales
 
