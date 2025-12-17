@@ -1164,3 +1164,262 @@ html {
     }
 }
 
+/* Enhanced Visual Improvements */
+
+/* Featured Project Card Badge */
+.project-card.featured {
+    border: 2px solid var(--primary-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.project-card.featured::before {
+    content: '⭐ DESTACADO';
+    position: absolute;
+    top: 10px;
+    right: -35px;
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    color: white;
+    padding: 5px 40px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    transform: rotate(45deg);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    letter-spacing: 1px;
+}
+
+.project-card.featured:hover {
+    transform: translateY(-8px) scale(1.01);
+    box-shadow: 0 15px 35px rgba(37, 99, 235, 0.3);
+}
+
+/* Metrics Badge Styling */
+.project-result strong {
+    background: linear-gradient(135deg, #10b981, #059669);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1.1rem;
+}
+
+/* Enhanced Stats Cards with Animation */
+.stat {
+    position: relative;
+    overflow: hidden;
+}
+
+.stat::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(37, 99, 235, 0.1), transparent);
+    transition: left 0.5s ease;
+}
+
+.stat:hover::before {
+    left: 100%;
+}
+
+/* Completion Badge for Education */
+.education-item h4::after {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #10b981;
+    border-radius: 50%;
+    margin-left: 8px;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.5;
+        transform: scale(1.3);
+    }
+}
+
+/* Skill Tags with Hover Effect Enhancement */
+.skill-tag {
+    position: relative;
+    overflow: hidden;
+}
+
+.skill-tag::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+    transition: left 0.3s ease;
+}
+
+.skill-tag:hover::before {
+    left: 100%;
+}
+
+/* Professional Badge for Certifications */
+.cert-status {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.cert-status.in-progress {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    animation: shimmer 2s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+}
+
+/* Enhanced Project Tech Tags */
+.project-tech span {
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    color: white;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+    transition: var(--transition);
+}
+
+.project-tech span:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.5);
+}
+
+/* Improved Feature Tags */
+.project-features span {
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+
+.project-features span:hover {
+    background: white;
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+/* Enhanced Hero Stats with Gradient Background */
+.hero-stats .stat {
+    background: linear-gradient(135deg, white 0%, var(--bg-secondary) 100%);
+    border-left: 4px solid var(--primary-color);
+}
+
+.hero-stats .stat h3 {
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+}
+
+/* Enhanced Technology Tags in Experience */
+.technologies {
+    background: var(--bg-secondary);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    border-left: 3px solid var(--accent-color);
+}
+
+.technologies strong {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* Improved Section Titles */
+.section-title {
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--text-primary), var(--primary-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Enhanced Mobile Responsiveness */
+@media (max-width: 768px) {
+    .project-card.featured::before {
+        padding: 3px 30px;
+        font-size: 0.65rem;
+        right: -40px;
+    }
+    
+    .hero-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .project-tech span {
+        padding: 4px 10px;
+        font-size: 0.7rem;
+    }
+    
+    .skill-tag {
+        font-size: 0.75rem;
+        padding: 6px 10px;
+    }
+}
+
+/* Smooth Scroll Enhancement */
+@media (prefers-reduced-motion: no-preference) {
+    * {
+        scroll-behavior: smooth;
+    }
+}
+
+/* Accessibility Improvements */
+.btn:focus,
+.carousel-btn:focus,
+.tab-btn:focus {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+    .header,
+    .footer,
+    .carousel-controls,
+    .contact-tabs,
+    .lang-btn {
+        display: none;
+    }
+    
+    .project-card,
+    .experience-card,
+    .skill-category,
+    .cert-card {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+}

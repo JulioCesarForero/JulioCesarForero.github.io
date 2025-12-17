@@ -1,22 +1,19 @@
 # Julio César Forero - Portfolio Profesional
 
-## 🚀 Desarrollador Full Stack & Arquitecto de Software
+## 🚀 Solution Architect | AI & Cloud Engineer
 
 **LinkedIn:** [Julio César Forero](https://www.linkedin.com/in/juliocesarforero)  
 **Email:** jcesarforero@gmail.com  
-**GitHub** [GitHub_JCFO](https://github.com/JulioCesarForero)
+**GitHub:** [GitHub_JCFO](https://github.com/JulioCesarForero)  
 **Ubicación:** Bogotá, Colombia  
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresarial, actualmente en transición activa hacia tecnologías modernas durante la **Maestría MISO** en la Universidad de los Andes.
+Arquitecto de Software con **más de 10 años de experiencia** en diseño e implementación de soluciones empresariales que combinan Inteligencia Artificial y Cloud Computing. **Recientemente completé Maestría en Ingeniería de Software (MISO - Universidad de los Andes)** con especialización en Cloud Computing, DevOps, Testing Automatizado y Arquitecturas de Software e IA con Agentes y MCP.
 
-### 🔄 **Transición Profesional**
-- **Antes:** Especialista en GeneXus (Low-Code) con experiencia en sistemas financieros
-- **Ahora:** Desarrollador Full Stack con Python, React, Angular, Node.js, y despliegue en la nube
-- **Objetivo:** Arquitecto de Software, Ingeniero Cloud/DevOps, o Desarrollador Full Stack Senior
+Actualmente especializado en **arquitecturas AI-driven con LangChain, N8N y patrones modernos de microservicios**. Experiencia comprobada en liderazgo técnico de equipos multidisciplinarios y diseño de arquitecturas escalables que han generado **mejoras del 25-60% en eficiencia operativa**. Conocimiento profundo en marcos arquitectónicos (TOGAF, C4 Model), patrones de APIs REST, microservicios hexagonales, y experiencia práctica **implementando soluciones en GCP y AWS**.
 
 ---
 
@@ -60,8 +57,8 @@ Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresar
 
 ## 📚 Educación
 
-### **Maestría en Ingeniería de Software (MISO)**
-**Universidad de los Andes** | 2023 - 2025 (En curso Ultimo Semestre)
+### **Maestría en Ingeniería de Software (MISO)** ✓ COMPLETADA
+**Universidad de los Andes** | 2023 - 2025
 
 **Cursos Destacados:**
 - Desarrollo Full Stack con Python, React, Angular
@@ -71,52 +68,104 @@ Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresar
 - Testing Automatizado y TDD
 - Metodologías Ágiles
 
-### **Ingeniería de Sistemas**
-**Universidad Distrital Francisco José de Caldas** | 2010 - 2015
+**Proyectos Académicos:**
+- Diseño de microservicios escalables con arquitectura hexagonal
+- Implementación de soluciones RAG + LLMs para asistentes inteligentes
+- Automatización de procesos con N8N y orquestación de workflows
+- Estudio de orquestación Kubernetes para deployments productivos
+
+### **Ingeniería Electrónica**
+**Universidad Santo Tomás de Aquino** | 2005 - 2010
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### **Desarrollador Senior Full Stack**
-**Accion Point** | 2020 - Presente
+### **Consultor Independiente - Soluciones IA y Automatización**
+**Green Travel** | Bogotá, Colombia | 2025 - Presente
 
-**Logros Destacados:**
-- 🚀 **Transición Tecnológica**: Migré de GeneXus a tecnologías modernas (Python, React, Node.js)
-- ☁️ **Implementación Cloud**: Desplegué aplicaciones en AWS y GCP usando Docker y CI/CD
-- 🧪 **Testing Automatizado**: Implementé pruebas con Cucumber y Cypress
-- 👥 **Liderazgo Técnico**: Guié equipos en adopción de nuevas tecnologías
-- 📱 **Desarrollo Móvil**: Creé aplicaciones React Native para clientes financieros
+**Proyectos Destacados:**
+- 🤖 **RAG Assistant para Consulta de Paquetes Turísticos**: Diseñé e implementé un asistente inteligente basado en RAG (Retrieval-Augmented Generation) utilizando LangChain y modelos de lenguaje, permitiendo consultas naturales de catálogos de paquetes turísticos. Integración con base de datos vectorial Pinecone para búsqueda semántica de destinos y ofertas.
+
+- 🔄 **Automatización de Procesamiento de Facturas con N8N**: Diseñé y documenté un flujo de automatización en N8N para captura, validación y procesamiento de facturas de proveedores, **reduciendo tiempo de liquidación manual en 70%**. Incluye extracción automática de datos, validación contra proveedores y generación de reportes de liquidación.
+
+- ☁️ **Deployment en GCP**: Implementé ambas soluciones en Google Cloud Platform utilizando Cloud Run para APIs, Cloud Storage para gestión de documentos. Configuré CI/CD con Cloud Build para despliegue automatizado.
+
+- 🏗️ **Arquitectura de Integración**: Diseñé arquitectura que integra el asistente IA con sistemas existentes de reservas DMC mediante APIs REST y MCP (Server/Client), permitiendo operación seamless sin disrupciones.
 
 **Tecnologías Utilizadas:**
-- Backend: Python/Flask, Node.js, Java
-- Frontend: React, Angular, React Native
-- Cloud: AWS, GCP, Docker, Kubernetes
-- Testing: Cucumber, Cypress, TDD
-- Metodologías: SCRUM, Agile, BDD
+- AI/ML: LangChain, RAG, GPT-4, Claude, Pinecone (Vector DB)
+- Automation: N8N, OCR, NLP
+- Cloud: GCP (Cloud Run, Firestore, Cloud Storage, Cloud Build)
+- Backend: Python/FastAPI
+- Integration: REST APIs, MCP (Model Context Protocol)
 
-### **Desarrollador GeneXus Senior**
-**Accion Point** | 2015 - 2020
+### **Especialista en LowCode, Inteligencia Artificial y Preventa**
+**Accion Point - Toolnology Colombia** | Bogotá, Colombia | 2023 - 2025
 
 **Logros Destacados:**
-- 🏦 **Sistemas Financieros**: Desarrollé 15+ aplicaciones para bancos y entidades financieras
-- 📊 **Bases de Datos**: Implementé soluciones con SQL Server, Oracle, MySQL
-- 🔄 **Integraciones**: Conecté sistemas legacy con APIs modernas
-- 📈 **Performance**: Optimicé consultas reduciendo tiempo de respuesta en 40%
+- 🏗️ **Arquitectura de Soluciones con IA Generativa**: Diseñé e implementé arquitecturas de soluciones basadas en IA utilizando GPT-4, Claude, LLMs open-source, RAG, NLP y OCR para automatización inteligente de procesos en industrias de Seguros, Marroquinería, logística y transporte, sector legal
+
+- 🚀 **Diseño de APIs y Microservicios con Asistentes IA**: Implementé arquitecturas de microservicios con APIs REST y asistentes conversacionales que **redujeron el tiempo de procesamiento de tareas hasta en un 60%** mediante automatizaciones e integraciones
+
+- 💬 **Arquitectura de Chatbots Conversacionales**: Diseñé y documenté arquitecturas avanzadas de chatbots con GPT, RAG, integraciones API, y conexiones a bases de datos vectoriales (Pinecone), utilizando diagramas C4 y documentación técnica que **incrementaron la satisfacción de clientes en 45%**
+
+- 👥 **Liderazgo Técnico en Arquitectura**: Lideré capacitaciones técnicas sobre IA, LLMs, automatización de procesos, metodologías ágiles y DevOps a más de 15 profesionales
+
+**Tecnologías Utilizadas:**
+- AI/ML: GPT-4, Claude, LangChain, RAG, NLP, OCR, Pinecone
+- Backend: Python/FastAPI, Node.js
+- Frontend: React, Angular, React Native
+- Cloud: GCP, AWS, Docker, Kubernetes
+- Automation: N8N, Make
+- Testing: Pytest, Jest, Cypress, TDD, BDD
+- Metodologías: SCRUM, Agile, TOGAF, C4 Model
+
+### **Desarrollador Senior - Líder Técnico en Desarrollo de Software LowCode**
+**Accion Point** | Bogotá, Colombia | 2017 - 2023
+
+**Logros Destacados:**
+- 🏦 **Arquitectura IDP - Single Sign-On (SSO)**: Lideré diseño arquitectónico y desarrollo de aplicación de identidad federada utilizando C4 Model, integrando Directorio Activo, CRM y aplicaciones de terceros mediante bus de orquestación APIs REST
+
+- 🏭 **Arquitectura de Migración Core Industrial**: Lideré migración de 2 aplicaciones core de industria gráfica utilizando metodologías AS-IS/TO-BE, integrando servicios de transporte y logística mediante APIs REST
+
+- 💳 **Arquitectura de Aplicación Financiera Multiplataforma**: Diseñé y mantuve arquitectura web y mobile (iOS/Android) para entidad financiera, integrando Core SAP (SOAP) y CRM (REST)
+
+- 📈 **Optimización de Procesos BPM**: Optimicé procesos de auditoría usando BPMN y scripts, **reduciendo tiempos de respuesta operacional en más de 35%** mediante solución BPM
+
+**Tecnologías Utilizadas:**
+- LowCode: GeneXus, Oracle BPM
+- Backend: C# .NET, SQL Server, Oracle
+- Integración: REST APIs, SOAP, Service Bus
+- Mobile: iOS, Android
+- Arquitectura: MVC, BPMN, C4 Model
 
 ---
 
 ## 🏆 Certificaciones
 
-- **Docker** - Guía Práctica para Desarrolladores
-- **Airtable** - Bases de Datos NoCode
-- **Latam Architecture Day 2025**
-- **AWS Certified Solutions Architect** (En progreso)
-- **Azure Fundamentals** (En progreso)
+- **AWS Certified Cloud Practitioner** (En progreso)
+- **Google Cloud Platform Professional** (En estudio y formación práctica)
+- **SCRUM Fundamentals Certified (SFC)**
+- **GeneXus Workflow BPM** - Certificado
+- **Docker - Guía Práctica para Desarrolladores** - Completado
+- **Airtable - Bases de Datos NoCode** - Completado
+- **Cloud Computing Práctico con GCP** (Experiencia hands-on en proyectos reales)
+- **Latam Architecture Day 2025** - Asistente
 
 ---
 
 ## 🚀 Proyectos Destacados
+
+### **RAG Assistant + Automatización de Facturas - Green Travel (2025)**
+- **Descripción**: Sistema completo de IA para consultas de paquetes turísticos mediante lenguaje natural + automatización de procesamiento de facturas
+- **Tecnologías**: LangChain, N8N, Pinecone, GPT-4, Python/FastAPI, GCP (Cloud Run, Firestore, Cloud Storage, Cloud Build)
+- **Características**: 
+  - RAG con búsqueda semántica en base de datos vectorial
+  - Automatización completa de flujo de facturas con OCR
+  - Integración mediante APIs REST y MCP (Model Context Protocol)
+  - CI/CD automatizado con Cloud Build
+- **Resultado**: **Reducción del 70% en tiempo de procesamiento manual** de facturas, arquitectura escalable en GCP, integración seamless con sistemas existentes
 
 ### **Sistema de Gestión Financiera - React + Python**
 - **Descripción**: Aplicación web para gestión de préstamos y créditos
@@ -157,30 +206,32 @@ Desarrollador Full Stack con **10+ años de experiencia** en desarrollo empresar
 ## 📝 Objetivos Profesionales
 
 ### **Corto Plazo (3-6 meses)**
-- Completar Maestría MISO
-- Obtener certificaciones AWS y Azure
-- Contribuir a proyectos open source
+- Consolidar experiencia en proyectos AI-driven con LangChain y RAG
+- Obtener certificaciones AWS Certified Cloud Practitioner y GCP Professional
+- Expandir portafolio de soluciones de automatización inteligente
 
 ### **Mediano Plazo (6-12 meses)**
-- Transición a rol de Arquitecto de Software
-- Especialización en Cloud Architecture
-- Liderar equipos de desarrollo
+- Consolidar rol de Arquitecto de Software Senior especializado en IA
+- Liderar proyectos de transformación digital con arquitecturas cloud-native
+- Profundizar expertise en Kubernetes y orquestación de microservicios
 
 ### **Largo Plazo (1-2 años)**
-- Arquitecto de Software Senior
-- Especialista en Cloud & DevOps
-- Consultor en Transformación Digital
+- Especialista en Cloud Architecture & AI Engineering
+- Líder técnico en proyectos de innovación con IA Generativa
+- Consultor en Arquitecturas AI-driven y DevOps avanzado
 
 ---
 
 ## 🌟 Por Qué Trabajar Conmigo
 
-- **🔄 Adaptabilidad**: Transición exitosa de tecnologías legacy a modernas
-- **📚 Aprendizaje Continuo**: Maestría en curso + certificaciones activas
-- **🏦 Experiencia Sectorial**: 10+ años en sistemas financieros
-- **👥 Liderazgo**: Experiencia guiando equipos de desarrollo
-- **☁️ Visión Cloud**: Conocimiento práctico de AWS, Azure, GCP
-- **🧪 Calidad**: Implementación de TDD, testing automatizado, CI/CD
+- **🎓 Maestría Completada**: MISO finalizada con especialización en Cloud, DevOps, IA y Arquitecturas de Software
+- **🤖 Experiencia AI-Driven**: Proyectos reales implementando RAG, LangChain, N8N y arquitecturas inteligentes
+- **☁️ Expertise Cloud**: Experiencia hands-on en GCP (Cloud Run, Firestore, Cloud Build) y conocimiento en AWS
+- **📈 Resultados Medibles**: Mejoras comprobadas del 25-70% en eficiencia operativa
+- **🏗️ Arquitectura de Software**: Dominio de TOGAF, C4 Model, microservicios hexagonales, patrones arquitectónicos
+- **👥 Liderazgo Técnico**: 10+ años liderando equipos multidisciplinarios y proyectos complejos
+- **🔄 Metodologías Ágiles**: Implementación exitosa de DevOps, SCRUM, TDD, BDD en proyectos reales
+- **💡 Innovación**: Capacidad para integrar tecnologías emergentes (IA, Cloud, MCP) en soluciones empresariales
 
 ---
 
